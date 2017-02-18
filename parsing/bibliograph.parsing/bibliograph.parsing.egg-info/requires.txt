@@ -1,0 +1,3 @@
+setuptools
+bibliograph.core
+bibliograph.rendering

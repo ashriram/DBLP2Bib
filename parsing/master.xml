@@ -1,0 +1,804 @@
+<?xml version="1.0"?>
+<dblp>
+
+
+<proceedings key="conf/micro/2013" mdate="2014-06-23">
+<editor>Matthew K. Farrens</editor>
+<editor>Christos Kozyrakis</editor>
+<title>The 46th Annual IEEE/ACM International Symposium on Microarchitecture, MICRO-46, Davis, CA, USA, December 7-11, 2013</title>
+<publisher>ACM</publisher>
+<booktitle>MICRO</booktitle>
+<year>2013</year>
+<isbn>978-1-4503-2638-4</isbn>
+<ee>http://dl.acm.org/citation.cfm?id=2540708</ee>
+<url>db/conf/micro/micro2013.html</url>
+</proceedings>
+
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/VenkataramaniCCRR13" mdate="2013-12-14">
+<author>Swagath Venkataramani</author>
+<author>Vinay K. Chippa</author>
+<author>Srimat T. Chakradhar</author>
+<author>Kaushik Roy</author>
+<author>Anand Raghunathan</author>
+<title>Quality programmable vector processors for approximate computing.</title>
+<pages>1-12</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540710</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#VenkataramaniCCRR13</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/SamadiLJHM13" mdate="2014-03-05">
+<author>Mehrzad Samadi</author>
+<author>Janghaeng Lee</author>
+<author>Davoud Anoushe Jamshidi</author>
+<author>Amir Hormati</author>
+<author>Scott A. Mahlke</author>
+<title>SAGE: self-tuning approximation for graphics engines.</title>
+<pages>13-24</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540711</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#SamadiLJHM13</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/SampsonNSC13" mdate="2013-12-14">
+<author>Adrian Sampson</author>
+<author>Jacob Nelson</author>
+<author>Karin Strauss</author>
+<author>Luis Ceze</author>
+<title>Approximate storage in solid-state memories.</title>
+<pages>25-36</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540712</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#SampsonNSC13</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/KoraYA13" mdate="2013-12-14">
+<author>Yuya Kora</author>
+<author>Kyohei Yamaguchi</author>
+<author>Hideki Ando</author>
+<title>MLP-aware dynamic instruction window resizing for adaptively exploiting both ILP and MLP.</title>
+<pages>37-48</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540713</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#KoraYA13</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/SembrantHB13" mdate="2013-12-14">
+<author>Andreas Sembrant</author>
+<author>Erik Hagersten</author>
+<author>David Black-Schaffer</author>
+<title>TLC: a tag-less cache for reducing dynamic first level cache energy.</title>
+<pages>49-61</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540714</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#SembrantHB13</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/SardashtiW13" mdate="2013-12-14">
+<author>Somayeh Sardashti</author>
+<author>David A. Wood</author>
+<title>Decoupled compressed cache: exploiting spatial locality for energy-optimized compressed caching.</title>
+<pages>62-73</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540715</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#SardashtiW13</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/GilaniKS13" mdate="2013-12-14">
+<author>Syed Zohaib Gilani</author>
+<author>Nam Sung Kim</author>
+<author>Michael J. Schulte</author>
+<title>Exploiting GPU peak-power and performance tradeoffs through reduced effective pipeline latency.</title>
+<pages>74-85</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540716</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#GilaniKS13</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/RhuSLE13" mdate="2013-12-14">
+<author>Minsoo Rhu</author>
+<author>Michael Sullivan</author>
+<author>Jingwen Leng</author>
+<author>Mattan Erez</author>
+<title>A locality-aware memory hierarchy for energy-efficient GPU architectures.</title>
+<pages>86-98</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540717</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#RhuSLE13</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/RogersOA13" mdate="2013-12-14">
+<author>Timothy G. Rogers</author>
+<author>Mike O'Connor</author>
+<author>Tor M. Aamodt</author>
+<title>Divergence-aware warp scheduling.</title>
+<pages>99-110</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540718</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#RogersOA13</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/Abdel-Majeed0A13" mdate="2013-12-14">
+<author>Mohammad Abdel-Majeed</author>
+<author>Daniel Wong 0001</author>
+<author>Murali Annavaram</author>
+<title>Warped gates: gating aware scheduling and power gating for GPGPUs.</title>
+<pages>111-122</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540719</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#Abdel-Majeed0A13</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/BalasubramanianS13" mdate="2013-12-14">
+<author>Raghuraman Balasubramanian</author>
+<author>Karthikeyan Sankaralingam</author>
+<title>Virtually-aged sampling DMR: unifying circuit failure prediction and circuit failure detection.</title>
+<pages>123-135</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540720</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#BalasubramanianS13</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/KimVGS13" mdate="2013-12-14">
+<author>Hyungjun Kim</author>
+<author>Arseniy Vitkovskiy</author>
+<author>Paul V. Gratz</author>
+<author>Vassos Soteriou</author>
+<title>Use it or lose it: wear-out and lifetime in future chip multiprocessors.</title>
+<pages>136-147</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540721</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#KimVGS13</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/ParikhB13" mdate="2013-12-14">
+<author>Ritesh Parikh</author>
+<author>Valeria Bertacco</author>
+<title>uDIREC: unified diagnosis and reconfiguration for frugal bypass of NoC faults.</title>
+<pages>148-159</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540722</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#ParikhB13</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/SazeidesOKNKA13" mdate="2013-12-14">
+<author>Yiannakis Sazeides</author>
+<author>Emre &#214;zer</author>
+<author>Danny Kershaw</author>
+<author>Panagiota Nikolaou</author>
+<author>Marios Kleanthous</author>
+<author>Jaume Abella</author>
+<title>Implicit-storing and redundant-encoding-of-attribute information in error-correction-codes.</title>
+<pages>160-171</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540723</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#SazeidesOKNKA13</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/PekhimenkoSKXMGKM13" mdate="2013-12-14">
+<author>Gennady Pekhimenko</author>
+<author>Vivek Seshadri</author>
+<author>Yoongu Kim</author>
+<author>Hongyi Xin</author>
+<author>Onur Mutlu</author>
+<author>Phillip B. Gibbons</author>
+<author>Michael A. Kozuch</author>
+<author>Todd C. Mowry</author>
+<title>Linearly compressed pages: a low-complexity, low-latency main memory compression framework.</title>
+<pages>172-184</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540724</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#PekhimenkoSKXMGKM13</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/SeshadriKFLAPLMGKM13" mdate="2013-12-14">
+<author>Vivek Seshadri</author>
+<author>Yoongu Kim</author>
+<author>Chris Fallin</author>
+<author>Donghyuk Lee</author>
+<author>Rachata Ausavarungnirun</author>
+<author>Gennady Pekhimenko</author>
+<author>Yixin Luo</author>
+<author>Onur Mutlu</author>
+<author>Phillip B. Gibbons</author>
+<author>Michael A. Kozuch</author>
+<author>Todd C. Mowry</author>
+<title>RowClone: fast and energy-efficient in-DRAM bulk data copy and initialization.</title>
+<pages>185-197</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540725</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#SeshadriKFLAPLMGKM13</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/ShevgoorKCBDU13" mdate="2013-12-14">
+<author>Manjunath Shevgoor</author>
+<author>Jung-Sik Kim</author>
+<author>Niladrish Chatterjee</author>
+<author>Rajeev Balasubramonian</author>
+<author>Al Davis</author>
+<author>Aniruddha N. Udipi</author>
+<title>Quantifying the relationship between the power delivery network and architectural policies in a 3D-stacked memory device.</title>
+<pages>198-209</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540726</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#ShevgoorKCBDU13</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/VegaBHBR13" mdate="2013-12-14">
+<author>Augusto Vega</author>
+<author>Alper Buyuktosunoglu</author>
+<author>Heather Hanson</author>
+<author>Pradip Bose</author>
+<author>Srinivasan Ramani</author>
+<title>Crank it up or dial it down: coordinated multiprocessor frequency and folding control.</title>
+<pages>210-221</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540727</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#VegaBHBR13</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/ZulfiqarKSLZK13" mdate="2013-12-14">
+<author>Arslan Zulfiqar</author>
+<author>Pranay Koka</author>
+<author>Herb Schwetman</author>
+<author>Mikko H. Lipasti</author>
+<author>Xuezhe Zheng</author>
+<author>Ashok V. Krishnamoorthy</author>
+<title>Wavelength stealing: an opportunistic approach to channel sharing in multi-chip photonic interconnects.</title>
+<pages>222-233</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540728</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#ZulfiqarKSLZK13</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/BojnordiI13" mdate="2013-12-14">
+<author>Mahdi Nazm Bojnordi</author>
+<author>Engin Ipek</author>
+<title>DESC: energy-efficient data exchange using synchronized counters.</title>
+<pages>234-246</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540729</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#BojnordiI13</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/JainL13" mdate="2013-12-14">
+<author>Akanksha Jain</author>
+<author>Calvin Lin</author>
+<title>Linearizing irregular memory accesses for improved correlated prefetching.</title>
+<pages>247-259</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540730</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#JainL13</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/KolliSW13" mdate="2013-12-14">
+<author>Aasheesh Kolli</author>
+<author>Ali G. Saidi</author>
+<author>Thomas F. Wenisch</author>
+<title>RDIP: return-address-stack directed instruction prefetching.</title>
+<pages>260-271</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540731</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#KolliSW13</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/KaynakGF13" mdate="2013-12-14">
+<author>Cansu Kaynak</author>
+<author>Boris Grot</author>
+<author>Babak Falsafi</author>
+<title>SHIFT: shared history instruction fetch for lean-core server processors.</title>
+<pages>272-283</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540732</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#KaynakGF13</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/Jimenez13" mdate="2013-12-14">
+<author>Daniel A. Jim'unez</author>
+<title>Insertion and promotion for tree-based PseudoLRU last-level caches.</title>
+<pages>284-296</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540733</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#Jimenez13</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/PanP13" mdate="2013-12-14">
+<author>Abhisek Pan</author>
+<author>Vijay S. Pai</author>
+<title>Imbalanced cache partitioning for balanced data-parallel programs.</title>
+<pages>297-309</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540734</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#PanP13</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/AlbericioIVL13" mdate="2013-12-14">
+<author>Jorge Albericio</author>
+<author>Pablo Ib\'a&#241;ez</author>
+<author>V&#237;ctor Vi&#241;als</author>
+<author>Jos'u M. Llaber&#237;a</author>
+<title>The reuse cache: downsizing the shared last-level cache.</title>
+<pages>310-321</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540735</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#AlbericioIVL13</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/LiHZLLYL13" mdate="2013-12-14">
+<author>Chao Li</author>
+<author>Yang Hu</author>
+<author>Ruijin Zhou</author>
+<author>Ming Liu</author>
+<author>Longjun Liu</author>
+<author>Jingling Yuan</author>
+<author>Tao Li</author>
+<title>Enabling datacenter servers to scale out economically and sustainably.</title>
+<pages>322-333</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540736</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#LiHZLLYL13</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/CreechKB13" mdate="2013-12-14">
+<author>Timothy Creech</author>
+<author>Aparna Kotha</author>
+<author>Rajeev Barua</author>
+<title>Efficient multiprogramming for multicores with SCAF.</title>
+<pages>334-345</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540737</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#CreechKB13</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/RongPWW13" mdate="2013-12-14">
+<author>Hongbo Rong</author>
+<author>Hyunchul Park</author>
+<author>Cheng Wang</author>
+<author>Youfeng Wu</author>
+<title>Allocating rotating registers by scheduling.</title>
+<pages>346-358</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540738</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#RongPWW13</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/ZebchukFM13" mdate="2013-12-14">
+<author>Jason Zebchuk</author>
+<author>Babak Falsafi</author>
+<author>Andreas Moshovos</author>
+<title>Multi-grain coherence directories.</title>
+<pages>359-370</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540739</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#ZebchukFM13</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/QianTSQ13" mdate="2013-12-14">
+<author>Xuehai Qian</author>
+<author>Josep Torrellas</author>
+<author>Benjamin Sahelices</author>
+<author>Depei Qian</author>
+<title>BulkCommit: scalable and fast commit of atomic blocks in a lazy multiprocessor environment.</title>
+<pages>371-382</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540740</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#QianTSQ13</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/Bhattacharjee13" mdate="2013-12-14">
+<author>Abhishek Bhattacharjee</author>
+<title>Large-reach memory management unit caches.</title>
+<pages>383-394</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540741</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#Bhattacharjee13</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/GaurSSC13" mdate="2013-12-14">
+<author>Jayesh Gaur</author>
+<author>Raghuram Srinivasan</author>
+<author>Sreenivas Subramoney</author>
+<author>Mainak Chaudhuri</author>
+<title>Efficient management of last-level caches in graphics processors for 3D scene rendering workloads.</title>
+<pages>395-407</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540742</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#GaurSSC13</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/FungA13" mdate="2013-12-14">
+<author>Wilson W. L. Fung</author>
+<author>Tor M. Aamodt</author>
+<title>Energy efficient GPU transactional memory via space-time optimizations.</title>
+<pages>408-420</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540743</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#FungA13</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/ZhaoLYXJ13" mdate="2014-08-05">
+<author>Jishen Zhao</author>
+<author>Sheng Li</author>
+<author>Doe Hyun Yoon</author>
+<author>Yuan Xie 0001</author>
+<author>Norman P. Jouppi</author>
+<title>Kiln: closing the performance gap between systems with and without persistence support.</title>
+<pages>421-432</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540744</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#ZhaoLYXJ13</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/FanJSZZ13" mdate="2013-12-14">
+<author>Jie Fan</author>
+<author>Song Jiang</author>
+<author>Jiwu Shu</author>
+<author>Youhui Zhang</author>
+<author>Weimin Zhen</author>
+<title>Aegis: partitioning data block for efficient recovery of stuck-at-faults in phase change memory.</title>
+<pages>433-444</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540745</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#FanJSZZ13</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/PadmanabhaLDM13" mdate="2013-12-14">
+<author>Shruti Padmanabha</author>
+<author>Andrew Lukefahr</author>
+<author>Reetuparna Das</author>
+<author>Scott A. Mahlke</author>
+<title>Trace based phase prediction for tightly-coupled heterogeneous cores.</title>
+<pages>445-456</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540746</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#PadmanabhaLDM13</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/PowerBGPBHRW13" mdate="2013-12-14">
+<author>Jason Power</author>
+<author>Arkaprava Basu</author>
+<author>Junli Gu</author>
+<author>Sooraj Puthoor</author>
+<author>Bradford M. Beckmann</author>
+<author>Mark D. Hill</author>
+<author>Steven K. Reinhardt</author>
+<author>David A. Wood</author>
+<title>Heterogeneous system coherence for integrated CPU-GPU systems.</title>
+<pages>457-467</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540747</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#PowerBGPBHRW13</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/micro/KocberberGPFLR13" mdate="2013-12-14">
+<author>Yusuf Onur Ko&#231;berber</author>
+<author>Boris Grot</author>
+<author>Javier Picorel</author>
+<author>Babak Falsafi</author>
+<author>Kevin T. Lim</author>
+<author>Parthasarathy Ranganathan</author>
+<title>Meet the walkers: accelerating index traversals for in-memory databases.</title>
+<pages>468-479</pages>
+<year>2013</year>
+<booktitle>MICRO</booktitle>
+<ee>http://doi.acm.org/10.1145/2540708.2540748</ee>
+<crossref>conf/micro/2013</crossref>
+<url>db/conf/micro/micro2013.html#KocberberGPFLR13</url>
+</inproceedings>
+
+
+
+
+
+</dblp>

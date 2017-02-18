@@ -1,0 +1,1234 @@
+<?xml version="1.0"?>
+<dblp>
+
+
+<proceedings key="conf/isca/2016" mdate="2016-09-20">
+<title>43rd ACM/IEEE Annual International Symposium on Computer Architecture, ISCA 2016, Seoul, South Korea, June 18-22, 2016</title>
+<booktitle>ISCA</booktitle>
+<publisher>IEEE Computer Society</publisher>
+<year>2016</year>
+<isbn>978-1-4673-8947-1</isbn>
+<ee>http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7551325</ee>
+<ee>https://www.computer.org/csdl/proceedings/isca/2016/8947/00/index.html</ee>
+<url>db/conf/isca/isca2016.html</url>
+</proceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/isca/AlbericioJHAJM16" mdate="2016-09-20">
+<author>Jorge Albericio</author>
+<author>Patrick Judd</author>
+<author>Tayler H. Hetherington</author>
+<author>Tor M. Aamodt</author>
+<author>Natalie D. Enright Jerger</author>
+<author>Andreas Moshovos</author>
+<title>Cnvlutin: Ineffectual-Neuron-Free Deep Neural Network Computing.</title>
+<pages>1-13</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.11</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.11</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#AlbericioJHAJM16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/ShafieeNMBSHWS16" mdate="2016-09-20">
+<author>Ali Shafiee</author>
+<author>Anirban Nag</author>
+<author>Naveen Muralimanohar</author>
+<author>Rajeev Balasubramonian</author>
+<author>John Paul Strachan</author>
+<author>Miao Hu</author>
+<author>R. Stanley Williams</author>
+<author>Vivek Srikumar</author>
+<title>ISAAC: A Convolutional Neural Network Accelerator with In-Situ Analog Arithmetic in Crossbars.</title>
+<pages>14-26</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.12</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.12</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#ShafieeNMBSHWS16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/ChiLXZZLWX16" mdate="2016-09-20">
+<author>Ping Chi</author>
+<author>Shuangchen Li</author>
+<author>Cong Xu</author>
+<author>Tao Zhang</author>
+<author>Jishen Zhao</author>
+<author>Yongpan Liu</author>
+<author>Yu Wang</author>
+<author>Yuan Xie</author>
+<title>PRIME: A Novel Processing-in-Memory Architecture for Neural Network Computation in ReRAM-Based Main Memory.</title>
+<pages>27-39</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.13</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.13</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#ChiLXZZLWX16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/TorngWB16" mdate="2016-09-20">
+<author>Christopher Torng</author>
+<author>Moyang Wang</author>
+<author>Christopher Batten</author>
+<title>Asymmetry-Aware Work-Stealing Runtimes.</title>
+<pages>40-52</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.14</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.14</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#TorngWB16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/TsengZZGS16" mdate="2016-09-20">
+<author>Hung-Wei Tseng</author>
+<author>Qianchen Zhao</author>
+<author>Yuxiao Zhou</author>
+<author>Mark Gahagan</author>
+<author>Steven Swanson</author>
+<title>Morpheus: Creating Application Objects Efficiently for Heterogeneous Computing.</title>
+<pages>53-65</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.15</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.15</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#TsengZZGS16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/MahajanYPTE16" mdate="2016-09-20">
+<author>Divya Mahajan</author>
+<author>Amir Yazdanbakhsh</author>
+<author>Jongse Park</author>
+<author>Bradley Thwaites</author>
+<author>Hadi Esmaeilzadeh</author>
+<title>Towards Statistical Guarantees in Controlling Quality Tradeoffs for Approximate Acceleration.</title>
+<pages>66-77</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.16</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.16</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#MahajanYPTE16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/JainL16" mdate="2016-09-20">
+<author>Akanksha Jain</author>
+<author>Calvin Lin</author>
+<title>Back to the Future: Leveraging Belady's Algorithm for Improved Cache Replacement.</title>
+<pages>78-89</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.17</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.17</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#JainL16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/ParkHH16" mdate="2016-09-20">
+<author>Chang Hyun Park</author>
+<author>Taekyung Heo</author>
+<author>Jaehyuk Huh</author>
+<title>Efficient Synonym Filtering and Scalable Delayed Translation for Hybrid Virtual Caching.</title>
+<pages>90-102</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.18</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.18</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#ParkHH16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/ChengZSIJL016" mdate="2016-09-20">
+<author>Hsiang-Yun Cheng</author>
+<author>Jishen Zhao</author>
+<author>Jack Sampson</author>
+<author>Mary Jane Irwin</author>
+<author>Aamer Jaleel</author>
+<author>Yu Lu</author>
+<author>Yuan Xie 0001</author>
+<title>LAP: Loop-Block Aware Inclusion Properties for Energy-Efficient Asymmetric Last Level Caches.</title>
+<pages>103-114</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.19</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.19</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#ChengZSIJL016</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/KoeplingerPZDKO16" mdate="2016-09-20">
+<author>David Koeplinger</author>
+<author>Raghu Prabhakar</author>
+<author>Yaqi Zhang</author>
+<author>Christina Delimitrou</author>
+<author>Christos Kozyrakis</author>
+<author>Kunle Olukotun</author>
+<title>Automatic Generation of Efficient Accelerators for Reconfigurable Hardware.</title>
+<pages>115-127</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.20</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.20</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#KoeplingerPZDKO16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/KimICKZLBA16" mdate="2016-09-20">
+<author>Donggyu Kim</author>
+<author>Adam M. Izraelevitz</author>
+<author>Christopher Celio</author>
+<author>Hokeun Kim</author>
+<author>Brian Zimmer</author>
+<author>Yunsup Lee</author>
+<author>Jonathan Bachrach</author>
+<author>Krste Asanovic</author>
+<title>Strober: Fast and Accurate Sample-Based Energy Simulation for Arbitrary RTL.</title>
+<pages>128-139</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.21</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.21</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#KimICKZLBA16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/LaurenzanoZCTM16" mdate="2016-09-20">
+<author>Michael A. Laurenzano</author>
+<author>Yunqi Zhang</author>
+<author>Jiang Chen</author>
+<author>Lingjia Tang</author>
+<author>Jason Mars</author>
+<title>PowerChop: Identifying and Managing Non-critical Units in Hybrid Processor Architectures.</title>
+<pages>140-152</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.22</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.22</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#LaurenzanoZCTM16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/GuYBJLYKKYCJC16" mdate="2016-09-20">
+<author>Boncheol Gu</author>
+<author>Andre S. Yoon</author>
+<author>Duck-Ho Bae</author>
+<author>Insoon Jo</author>
+<author>Jinyoung Lee</author>
+<author>Jonghyun Yoon</author>
+<author>Jeong-Uk Kang</author>
+<author>Moonsang Kwon</author>
+<author>Chanho Yoon</author>
+<author>Sangyeun Cho</author>
+<author>Jaeheon Jeong</author>
+<author>Duckhyun Chang</author>
+<title>Biscuit: A Framework for Near-Data Processing of Big Data Workloads.</title>
+<pages>153-165</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.23</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.23</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#GuYBJLYKKYCJC16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/OzdalYKAGBO16" mdate="2016-09-20">
+<author>Muhammet Mustafa Ozdal</author>
+<author>Serif Yesil</author>
+<author>Taemin Kim</author>
+<author>Andrey Ayupov</author>
+<author>John Greth</author>
+<author>Steven M. Burns</author>
+<author>&#214;zcan &#214;zturk</author>
+<title>Energy Efficient Architecture for Graph Analytics Accelerators.</title>
+<pages>166-177</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.24</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.24</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#OzdalYKAGBO16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/MagakiKGT16" mdate="2016-09-20">
+<author>Ikuo Magaki</author>
+<author>Moein Khazraee</author>
+<author>Luis Vega Gutierrez</author>
+<author>Michael Bedford Taylor</author>
+<title>ASIC Clouds: Specializing the Datacenter.</title>
+<pages>178-190</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.25</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.25</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#MagakiKGT16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/OhKYPPRA16" mdate="2016-09-20">
+<author>Yunho Oh</author>
+<author>Keunsoo Kim</author>
+<author>Myung Kuk Yoon</author>
+<author>Jong Hyun Park</author>
+<author>Yongjun Park</author>
+<author>Won Woo Ro</author>
+<author>Murali Annavaram</author>
+<title>APRES: Improving Cache Efficiency by Exploiting Load Characteristics on GPUs.</title>
+<pages>191-203</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.26</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.26</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#OhKYPPRA16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/HsiehEKCOVMK16" mdate="2016-09-20">
+<author>Kevin Hsieh</author>
+<author>Eiman Ebrahimi</author>
+<author>Gwangsun Kim</author>
+<author>Niladrish Chatterjee</author>
+<author>Mike O'Connor</author>
+<author>Nandita Vijaykumar</author>
+<author>Onur Mutlu</author>
+<author>Stephen W. Keckler</author>
+<title>Transparent Offloading and Mapping (TOM): Enabling Programmer-Transparent Near-Data Processing in GPU Systems.</title>
+<pages>204-216</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.27</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.27</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#HsiehEKCOVMK16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/ParkHH16a" mdate="2017-02-08">
+<author>Chang Hyun Park</author>
+<author>Taekyung Heo</author>
+<author>Jaehyuk Huh</author>
+<title>Efficient Synonym Filtering and Scalable Delayed Translation for Hybrid Virtual Caching.</title>
+<pages>217-229</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.28</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.28</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#ParkHH16a</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/isca/XuJKRA16" mdate="2016-09-20">
+<author>Qiumin Xu</author>
+<author>Hyeran Jeon</author>
+<author>Keunsoo Kim</author>
+<author>Won Woo Ro</author>
+<author>Murali Annavaram</author>
+<title>Warped-Slicer: Efficient Intra-SM Slicing through Dynamic Resource Partitioning for GPU Multiprogramming.</title>
+<pages>230-242</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.29</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.29</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#XuJKRA16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/HanLMPPHD16" mdate="2016-09-20">
+<author>Song Han</author>
+<author>Xingyu Liu</author>
+<author>Huizi Mao</author>
+<author>Jing Pu</author>
+<author>Ardavan Pedram</author>
+<author>Mark A. Horowitz</author>
+<author>William J. Dally</author>
+<title>EIE: Efficient Inference Engine on Compressed Deep Neural Network.</title>
+<pages>243-254</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.30</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.30</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#HanLMPPHD16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/LiKamWaHGPZ16" mdate="2016-09-20">
+<author>Robert LiKamWa</author>
+<author>Yunhui Hou</author>
+<author>Yuan Gao</author>
+<author>Mia Polansky</author>
+<author>Lin Zhong</author>
+<title>RedEye: Analog ConvNet Image Sensor Architecture for Continuous Mobile Vision.</title>
+<pages>255-266</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.31</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.31</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#LiKamWaHGPZ16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/ReagenWARLLHWB16" mdate="2016-09-20">
+<author>Brandon Reagen</author>
+<author>Paul N. Whatmough</author>
+<author>Robert Adolf</author>
+<author>Saketh Rama</author>
+<author>Hyunkwang Lee</author>
+<author>Sae Kyu Lee</author>
+<author>Jos'u Miguel Hern\'andez-Lobato</author>
+<author>Gu-Yeon Wei</author>
+<author>David M. Brooks</author>
+<title>Minerva: Enabling Low-Power, Highly-Accurate Deep Neural Network Accelerators.</title>
+<pages>267-278</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.32</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.32</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#ReagenWARLLHWB16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/YaoL16" mdate="2016-09-20">
+<author>Yuan Yao</author>
+<author>Zhonghai Lu</author>
+<title>Opportunistic Competition Overhead Reduction for Expediting Critical Section in NoC Based CMPs.</title>
+<pages>279-290</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.33</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.33</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#YaoL16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/KimKCKKOJL16" mdate="2016-09-20">
+<author>Channoh Kim</author>
+<author>Sungmin Kim</author>
+<author>Hyeon-Gyu Cho</author>
+<author>Doo-Young Kim</author>
+<author>Jaehyeok Kim</author>
+<author>Young H. Oh</author>
+<author>Hakbeom Jang</author>
+<author>Jae W. Lee</author>
+<title>Short-Circuit Dispatch: Accelerating Virtual Machine Interpreters on Embedded Processors.</title>
+<pages>291-303</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.34</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.34</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#KimKCKKOJL16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/DallLLNK16" mdate="2016-09-20">
+<author>Christoffer Dall</author>
+<author>Shih-Wei Li</author>
+<author>Jin Tack Lim</author>
+<author>Jason Nieh</author>
+<author>Georgios Koloventzos</author>
+<title>ARM Virtualization: Performance and Architectural Implications.</title>
+<pages>304-316</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.35</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.35</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#DallLLNK16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/GaurAS16" mdate="2016-09-20">
+<author>Jayesh Gaur</author>
+<author>Alaa R. Alameldeen</author>
+<author>Sreenivas Subramoney</author>
+<title>Base-Victim Compression: An Opportunistic Cache Compression Architecture.</title>
+<pages>317-328</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.36</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.36</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#GaurAS16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/KimSCE16" mdate="2016-09-20">
+<author>Jungrae Kim</author>
+<author>Michael Sullivan</author>
+<author>Esha Choukse</author>
+<author>Mattan Erez</author>
+<title>Bit-Plane Compression: Transforming Data for Better Compression in Many-Core Architectures.</title>
+<pages>329-340</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.37</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.37</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#KimSCE16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/NairSQ16" mdate="2016-09-20">
+<author>Prashant J. Nair</author>
+<author>Vilas Sridharan</author>
+<author>Moinuddin K. Qureshi</author>
+<title>XED: Exposing On-Die Error Detection Information for Strong Memory Reliability.</title>
+<pages>341-353</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.38</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.38</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#NairSQ16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/AlamM16" mdate="2016-09-20">
+<author>Mohammad Mejbah Ul Alam</author>
+<author>Abdullah Muzahid</author>
+<title>Production-Run Software Failure Diagnosis via Adaptive Communication Tracking.</title>
+<pages>354-366</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.39</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.39</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#AlamM16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/ChenES16" mdate="2016-09-20">
+<author>Yu-Hsin Chen</author>
+<author>Joel S. Emer</author>
+<author>Vivienne Sze</author>
+<title>Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks.</title>
+<pages>367-379</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.40</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.40</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#ChenES16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/KimKCYM16" mdate="2016-09-21">
+<author>Duckhwan Kim 0001</author>
+<author>Jaeha Kung</author>
+<author>Sek M. Chai</author>
+<author>Sudhakar Yalamanchili</author>
+<author>Saibal Mukhopadhyay</author>
+<title>Neurocube: A Programmable Digital Neuromorphic Architecture with High-Density 3D Memory.</title>
+<pages>380-392</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.41</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.41</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#KimKCYM16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/LiuDTHLXCC16" mdate="2016-09-20">
+<author>Shaoli Liu</author>
+<author>Zidong Du</author>
+<author>Jinhua Tao</author>
+<author>Dong Han</author>
+<author>Tao Luo</author>
+<author>Yuan Xie</author>
+<author>Yunji Chen</author>
+<author>Tianshi Chen</author>
+<title>Cambricon: An Instruction Set Architecture for Neural Networks.</title>
+<pages>393-405</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.42</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.42</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#LiuDTHLXCC16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/HuangHL16" mdate="2016-09-20">
+<author>Ziqiang Huang</author>
+<author>Andrew D. Hilton</author>
+<author>Benjamin C. Lee</author>
+<title>Decoupling Loads for Nano-Instruction Set Computers.</title>
+<pages>406-417</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.43</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.43</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#HuangHL16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/0001PUCV16" mdate="2016-09-20">
+<author>Timothy Hayes 0001</author>
+<author>Oscar Palomar</author>
+<author>Osman S. Unsal</author>
+<author>Adri\'an Cristal</author>
+<author>Mateo Valero</author>
+<title>Future Vector Microprocessor Extensions for Data Aggregations.</title>
+<pages>418-430</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.44</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.44</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#0001PUCV16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/SleimanW16" mdate="2016-09-20">
+<author>Faissal M. Sleiman</author>
+<author>Thomas F. Wenisch</author>
+<title>Efficiently Scaling Out-of-Order Cores for Simultaneous Multithreading.</title>
+<pages>431-443</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.45</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.45</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#SleimanW16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/HashemiKEMP16" mdate="2016-09-20">
+<author>Milad Hashemi</author>
+<author>Khubaib</author>
+<author>Eiman Ebrahimi</author>
+<author>Onur Mutlu</author>
+<author>Yale N. Patt</author>
+<title>Accelerating Dependent Cache Misses with an Enhanced Memory Controller.</title>
+<pages>444-455</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.46</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.46</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#HashemiKEMP16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/ZhangMMT16" mdate="2016-09-20">
+<author>Yunqi Zhang</author>
+<author>David Meisner</author>
+<author>Jason Mars</author>
+<author>Lingjia Tang</author>
+<title>Treadmill: Attributing the Source of Tail Latency through Precise Load Testing and Statistical Inference.</title>
+<pages>456-468</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.47</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.47</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#ZhangMMT16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/WuDGHJKLMS16" mdate="2016-09-20">
+<author>Qiang Wu</author>
+<author>Qingyuan Deng</author>
+<author>Lakshmi Ganesh</author>
+<author>Chang-Hong Hsu</author>
+<author>Yun Jin</author>
+<author>Sanjeev Kumar</author>
+<author>Bin Li</author>
+<author>Justin Meza</author>
+<author>Yee Jiun Song</author>
+<title>Dynamo: Facebook's Data Center-Wide Power Management System.</title>
+<pages>469-480</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.48</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.48</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#WuDGHJKLMS16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/Wong16" mdate="2016-09-20">
+<author>Daniel Wong 0001</author>
+<title>Peak Efficiency Aware Scheduling for Highly Energy Proportional Servers.</title>
+<pages>481-492</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.49</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.49</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#Wong16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/LiWHCLG16" mdate="2016-09-20">
+<author>Chao Li</author>
+<author>Zhenhua Wang</author>
+<author>Xiaofeng Hou</author>
+<author>Haopeng Chen</author>
+<author>Xiaoyao Liang</author>
+<author>Minyi Guo</author>
+<title>Power Attack Defense: Securing Battery-Backed Data Centers.</title>
+<pages>493-505</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.50</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.50</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#LiWHCLG16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/GaoDNMZBK16" mdate="2016-09-20">
+<author>Mingyu Gao</author>
+<author>Christina Delimitrou</author>
+<author>Dimin Niu</author>
+<author>Krishna T. Malladi</author>
+<author>Hongzhong Zheng</author>
+<author>Bob Brennan</author>
+<author>Christos Kozyrakis</author>
+<title>DRAF: A Low-Power DRAM-Based Reconfigurable Acceleration Fabric.</title>
+<pages>506-518</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.51</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.51</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#GaoDNMZBK16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/ZhangNFSXC16" mdate="2016-09-20">
+<author>Lunkai Zhang</author>
+<author>Brian Neely</author>
+<author>Diana Franklin</author>
+<author>Dmitri B. Strukov</author>
+<author>Yuan Xie</author>
+<author>Frederic T. Chong</author>
+<title>Mellow Writes: Extending Lifetime in Resistive Memories through Selective Slow Write Backs.</title>
+<pages>519-531</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.52</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.52</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#ZhangNFSXC16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/ZhouW16" mdate="2016-09-20">
+<author>Yanqi Zhou</author>
+<author>David Wentzlaff</author>
+<title>MITTS: Memory Inter-arrival Time Traffic Shaping.</title>
+<pages>532-544</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.53</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.53</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#ZhouW16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/MiguelJ16" mdate="2016-09-20">
+<author>Joshua San Miguel</author>
+<author>Natalie D. Enright Jerger</author>
+<title>The Anytime Automaton.</title>
+<pages>545-557</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.54</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.54</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#MiguelJ16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/WangZLBYDL16" mdate="2016-09-20">
+<author>Siyang Wang</author>
+<author>Xiangyu Zhang</author>
+<author>Yuxuan Li</author>
+<author>Ramin Bashizade</author>
+<author>Song Yang</author>
+<author>Chris Dwyer</author>
+<author>Alvin R. Lebeck</author>
+<title>Accelerating Markov Random Field Inference Using Molecular Optical Gibbs Sampling Units.</title>
+<pages>558-569</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.55</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.55</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#WangZLBYDL16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/HuangGSTS16" mdate="2016-09-20">
+<author>Yipeng Huang</author>
+<author>Ning Guo</author>
+<author>Mingoo Seok</author>
+<author>Yannis P. Tsividis</author>
+<author>Simha Sethumadhavan</author>
+<title>Evaluation of an Analog Accelerator for Linear Algebra.</title>
+<pages>570-582</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.56</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.56</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#HuangGSTS16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/WangRSY16" mdate="2016-09-20">
+<author>Jin Wang</author>
+<author>Norm Rubin</author>
+<author>Albert Sidelnik</author>
+<author>Sudhakar Yalamanchili</author>
+<title>LaPerm: Locality Aware Scheduler for Dynamic Parallelism on GPUs.</title>
+<pages>583-595</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.57</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.57</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#WangRSY16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/ShaharBS16" mdate="2016-09-20">
+<author>Sagi Shahar</author>
+<author>Shai Bergman</author>
+<author>Mark Silberstein</author>
+<title>ActivePointers: A Case for Software Address Translation on GPUs.</title>
+<pages>596-608</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.58</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.58</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#ShaharBS16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/YoonKLRA16" mdate="2016-09-20">
+<author>Myung Kuk Yoon</author>
+<author>Keunsoo Kim</author>
+<author>Sangpil Lee</author>
+<author>Won Woo Ro</author>
+<author>Murali Annavaram</author>
+<title>Virtual Thread: Maximizing Thread-Level Parallelism beyond GPU Scheduling Limit.</title>
+<pages>609-621</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.59</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.59</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#YoonKLRA16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/KimSLE16" mdate="2016-09-20">
+<author>Jungrae Kim</author>
+<author>Michael Sullivan</author>
+<author>Sangkug Lym</author>
+<author>Mattan Erez</author>
+<title>All-Inclusive ECC: Thorough End-to-End Protection for Reliable Computer Memory.</title>
+<pages>622-633</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.60</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.60</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#KimSLE16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/DuweJP016" mdate="2016-09-20">
+<author>Henry Duwe</author>
+<author>Xun Jian</author>
+<author>Daniel Petrisko</author>
+<author>Rakesh Kumar 0002</author>
+<title>Rescuing Uncorrectable Fault Patterns in On-Chip Memories through Error Pattern Transformation.</title>
+<pages>634-644</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.61</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.61</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#DuweJP016</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/KimE16" mdate="2016-09-20">
+<author>Dong-Wan Kim</author>
+<author>Mattan Erez</author>
+<title>RelaxFault Memory Repair.</title>
+<pages>645-657</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.62</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.62</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#KimE16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/PothukuchiAVT16" mdate="2016-09-20">
+<author>Raghavendra Pradyumna Pothukuchi</author>
+<author>Amin Ansari</author>
+<author>Petros G. Voulgaris</author>
+<author>Josep Torrellas</author>
+<title>Using Multiple Input, Multiple Output Formal Control to Maximize Resource Efficiency in Architectures.</title>
+<pages>658-670</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.63</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.63</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#PothukuchiAVT16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/Cherupalli0S16" mdate="2016-09-20">
+<author>Hari Cherupalli</author>
+<author>Rakesh Kumar 0002</author>
+<author>John Sartori</author>
+<title>Exploiting Dynamic Timing Slack for Energy Efficiency in Ultra-Low-Power Embedded Systems.</title>
+<pages>671-681</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.64</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.64</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#Cherupalli0S16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/ZhouHW16" mdate="2016-09-20">
+<author>Yanqi Zhou</author>
+<author>Henry Hoffmann</author>
+<author>David Wentzlaff</author>
+<title>CASH: Supporting IaaS Customers with a Sub-core Configurable Architecture.</title>
+<pages>682-694</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.65</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.65</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#ZhouHW16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/ArjomandKSD16" mdate="2016-09-20">
+<author>Mohammad Arjomand</author>
+<author>Mahmut T. Kandemir</author>
+<author>Anand Sivasubramaniam</author>
+<author>Chita R. Das</author>
+<title>Boosting Access Parallelism to PCM-Based Main Memory.</title>
+<pages>695-706</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.66</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.66</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#ArjomandKSD16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/GandhiHS16" mdate="2016-09-20">
+<author>Jayneel Gandhi</author>
+<author>Mark D. Hill</author>
+<author>Michael M. Swift</author>
+<title>Agile Paging: Exceeding the Best of Nested and Shadow Paging.</title>
+<pages>707-718</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.67</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.67</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#GandhiHS16</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/isca/SeolSJCSK16" mdate="2016-09-20">
+<author>Hoseok Seol</author>
+<author>Wongyu Shin</author>
+<author>Jaemin Jang</author>
+<author>Jungwhan Choi</author>
+<author>Jinwoong Suh</author>
+<author>Lee-Sup Kim</author>
+<title>Energy Efficient Data Encoding in DRAM Channels Exploiting Data Value Similarity.</title>
+<pages>719-730</pages>
+<year>2016</year>
+<booktitle>ISCA</booktitle>
+<ee>http://dx.doi.org/10.1109/ISCA.2016.68</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.68</ee>
+<crossref>conf/isca/2016</crossref>
+<url>db/conf/isca/isca2016.html#SeolSJCSK16</url>
+</inproceedings>
+
+
+
+
+</dblp>

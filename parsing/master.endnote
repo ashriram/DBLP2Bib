@@ -1,0 +1,433 @@
+%T  The 46th Annual IEEE/ACM International Symposium on Microarchitecture, MICRO-46, Davis, CA, USA, December 7-11, 2013
+%D 2013
+
+
+
+%A  Swagath Venkataramani
+%A  Vinay K. Chippa
+%A  Srimat T. Chakradhar
+%A  Kaushik Roy
+%A  Anand Raghunathan
+%T  Quality programmable vector processors for approximate computing.
+%P  1-12
+%D 2013
+%J Proc. of the 46th MICRO
+
+
+
+%A  Mehrzad Samadi
+%A  Janghaeng Lee
+%A  Davoud Anoushe Jamshidi
+%A  Amir Hormati
+%A  Scott A. Mahlke
+%T  SAGE: self-tuning approximation for graphics engines.
+%P  13-24
+%D 2013
+%J Proc. of the 46th MICRO
+
+
+
+%A  Adrian Sampson
+%A  Jacob Nelson
+%A  Karin Strauss
+%A  Luis Ceze
+%T  Approximate storage in solid-state memories.
+%P  25-36
+%D 2013
+%J Proc. of the 46th MICRO
+
+
+
+%A  Yuya Kora
+%A  Kyohei Yamaguchi
+%A  Hideki Ando
+%T  MLP-aware dynamic instruction window resizing for adaptively exploiting both ILP and MLP.
+%P  37-48
+%D 2013
+%J Proc. of the 46th MICRO
+
+
+
+%A  Andreas Sembrant
+%A  Erik Hagersten
+%A  David Black-Schaffer
+%T  TLC: a tag-less cache for reducing dynamic first level cache energy.
+%P  49-61
+%D 2013
+%J Proc. of the 46th MICRO
+
+
+
+%A  Somayeh Sardashti
+%A  David A. Wood
+%T  Decoupled compressed cache: exploiting spatial locality for energy-optimized compressed caching.
+%P  62-73
+%D 2013
+%J Proc. of the 46th MICRO
+
+
+
+%A  Syed Zohaib Gilani
+%A  Nam Sung Kim
+%A  Michael J. Schulte
+%T  Exploiting GPU peak-power and performance tradeoffs through reduced effective pipeline latency.
+%P  74-85
+%D 2013
+%J Proc. of the 46th MICRO
+
+
+
+%A  Minsoo Rhu
+%A  Michael Sullivan
+%A  Jingwen Leng
+%A  Mattan Erez
+%T  A locality-aware memory hierarchy for energy-efficient GPU architectures.
+%P  86-98
+%D 2013
+%J Proc. of the 46th MICRO
+
+
+
+%A  Timothy G. Rogers
+%A  Mike O'Connor
+%A  Tor M. Aamodt
+%T  Divergence-aware warp scheduling.
+%P  99-110
+%D 2013
+%J Proc. of the 46th MICRO
+
+
+
+%A  Mohammad Abdel-Majeed
+%A  Daniel Wong 0001
+%A  Murali Annavaram
+%T  Warped gates: gating aware scheduling and power gating for GPGPUs.
+%P  111-122
+%D 2013
+%J Proc. of the 46th MICRO
+
+
+
+%A  Raghuraman Balasubramanian
+%A  Karthikeyan Sankaralingam
+%T  Virtually-aged sampling DMR: unifying circuit failure prediction and circuit failure detection.
+%P  123-135
+%D 2013
+%J Proc. of the 46th MICRO
+
+
+
+%A  Hyungjun Kim
+%A  Arseniy Vitkovskiy
+%A  Paul V. Gratz
+%A  Vassos Soteriou
+%T  Use it or lose it: wear-out and lifetime in future chip multiprocessors.
+%P  136-147
+%D 2013
+%J Proc. of the 46th MICRO
+
+
+
+%A  Ritesh Parikh
+%A  Valeria Bertacco
+%T  uDIREC: unified diagnosis and reconfiguration for frugal bypass of NoC faults.
+%P  148-159
+%D 2013
+%J Proc. of the 46th MICRO
+
+
+
+%A  Yiannakis Sazeides
+%A  zer
+%A  Danny Kershaw
+%A  Panagiota Nikolaou
+%A  Marios Kleanthous
+%A  Jaume Abella
+%T  Implicit-storing and redundant-encoding-of-attribute information in error-correction-codes.
+%P  160-171
+%D 2013
+%J Proc. of the 46th MICRO
+
+
+
+%A  Gennady Pekhimenko
+%A  Vivek Seshadri
+%A  Yoongu Kim
+%A  Hongyi Xin
+%A  Onur Mutlu
+%A  Phillip B. Gibbons
+%A  Michael A. Kozuch
+%A  Todd C. Mowry
+%T  Linearly compressed pages: a low-complexity, low-latency main memory compression framework.
+%P  172-184
+%D 2013
+%J Proc. of the 46th MICRO
+
+
+
+%A  Vivek Seshadri
+%A  Yoongu Kim
+%A  Chris Fallin
+%A  Donghyuk Lee
+%A  Rachata Ausavarungnirun
+%A  Gennady Pekhimenko
+%A  Yixin Luo
+%A  Onur Mutlu
+%A  Phillip B. Gibbons
+%A  Michael A. Kozuch
+%A  Todd C. Mowry
+%T  RowClone: fast and energy-efficient in-DRAM bulk data copy and initialization.
+%P  185-197
+%D 2013
+%J Proc. of the 46th MICRO
+
+
+
+%A  Manjunath Shevgoor
+%A  Jung-Sik Kim
+%A  Niladrish Chatterjee
+%A  Rajeev Balasubramonian
+%A  Al Davis
+%A  Aniruddha N. Udipi
+%T  Quantifying the relationship between the power delivery network and architectural policies in a 3D-stacked memory device.
+%P  198-209
+%D 2013
+%J Proc. of the 46th MICRO
+
+
+
+%A  Augusto Vega
+%A  Alper Buyuktosunoglu
+%A  Heather Hanson
+%A  Pradip Bose
+%A  Srinivasan Ramani
+%T  Crank it up or dial it down: coordinated multiprocessor frequency and folding control.
+%P  210-221
+%D 2013
+%J Proc. of the 46th MICRO
+
+
+
+%A  Arslan Zulfiqar
+%A  Pranay Koka
+%A  Herb Schwetman
+%A  Mikko H. Lipasti
+%A  Xuezhe Zheng
+%A  Ashok V. Krishnamoorthy
+%T  Wavelength stealing: an opportunistic approach to channel sharing in multi-chip photonic interconnects.
+%P  222-233
+%D 2013
+%J Proc. of the 46th MICRO
+
+
+
+%A  Mahdi Nazm Bojnordi
+%A  Engin Ipek
+%T  DESC: energy-efficient data exchange using synchronized counters.
+%P  234-246
+%D 2013
+%J Proc. of the 46th MICRO
+
+
+
+%A  Akanksha Jain
+%A  Calvin Lin
+%T  Linearizing irregular memory accesses for improved correlated prefetching.
+%P  247-259
+%D 2013
+%J Proc. of the 46th MICRO
+
+
+
+%A  Aasheesh Kolli
+%A  Ali G. Saidi
+%A  Thomas F. Wenisch
+%T  RDIP: return-address-stack directed instruction prefetching.
+%P  260-271
+%D 2013
+%J Proc. of the 46th MICRO
+
+
+
+%A  Cansu Kaynak
+%A  Boris Grot
+%A  Babak Falsafi
+%T  SHIFT: shared history instruction fetch for lean-core server processors.
+%P  272-283
+%D 2013
+%J Proc. of the 46th MICRO
+
+
+
+%A  Daniel A. Jim'unez
+%T  Insertion and promotion for tree-based PseudoLRU last-level caches.
+%P  284-296
+%D 2013
+%J Proc. of the 46th MICRO
+
+
+
+%A  Abhisek Pan
+%A  Vijay S. Pai
+%T  Imbalanced cache partitioning for balanced data-parallel programs.
+%P  297-309
+%D 2013
+%J Proc. of the 46th MICRO
+
+
+
+%A  Jorge Albericio
+%A  ez
+%A  als
+%A  a
+%T  The reuse cache: downsizing the shared last-level cache.
+%P  310-321
+%D 2013
+%J Proc. of the 46th MICRO
+
+
+
+%A  Chao Li
+%A  Yang Hu
+%A  Ruijin Zhou
+%A  Ming Liu
+%A  Longjun Liu
+%A  Jingling Yuan
+%A  Tao Li
+%T  Enabling datacenter servers to scale out economically and sustainably.
+%P  322-333
+%D 2013
+%J Proc. of the 46th MICRO
+
+
+
+%A  Timothy Creech
+%A  Aparna Kotha
+%A  Rajeev Barua
+%T  Efficient multiprogramming for multicores with SCAF.
+%P  334-345
+%D 2013
+%J Proc. of the 46th MICRO
+
+
+
+%A  Hongbo Rong
+%A  Hyunchul Park
+%A  Cheng Wang
+%A  Youfeng Wu
+%T  Allocating rotating registers by scheduling.
+%P  346-358
+%D 2013
+%J Proc. of the 46th MICRO
+
+
+
+%A  Jason Zebchuk
+%A  Babak Falsafi
+%A  Andreas Moshovos
+%T  Multi-grain coherence directories.
+%P  359-370
+%D 2013
+%J Proc. of the 46th MICRO
+
+
+
+%A  Xuehai Qian
+%A  Josep Torrellas
+%A  Benjamin Sahelices
+%A  Depei Qian
+%T  BulkCommit: scalable and fast commit of atomic blocks in a lazy multiprocessor environment.
+%P  371-382
+%D 2013
+%J Proc. of the 46th MICRO
+
+
+
+%A  Abhishek Bhattacharjee
+%T  Large-reach memory management unit caches.
+%P  383-394
+%D 2013
+%J Proc. of the 46th MICRO
+
+
+
+%A  Jayesh Gaur
+%A  Raghuram Srinivasan
+%A  Sreenivas Subramoney
+%A  Mainak Chaudhuri
+%T  Efficient management of last-level caches in graphics processors for 3D scene rendering workloads.
+%P  395-407
+%D 2013
+%J Proc. of the 46th MICRO
+
+
+
+%A  Wilson W. L. Fung
+%A  Tor M. Aamodt
+%T  Energy efficient GPU transactional memory via space-time optimizations.
+%P  408-420
+%D 2013
+%J Proc. of the 46th MICRO
+
+
+
+%A  Jishen Zhao
+%A  Sheng Li
+%A  Doe Hyun Yoon
+%A  Yuan Xie 0001
+%A  Norman P. Jouppi
+%T  Kiln: closing the performance gap between systems with and without persistence support.
+%P  421-432
+%D 2013
+%J Proc. of the 46th MICRO
+
+
+
+%A  Jie Fan
+%A  Song Jiang
+%A  Jiwu Shu
+%A  Youhui Zhang
+%A  Weimin Zhen
+%T  Aegis: partitioning data block for efficient recovery of stuck-at-faults in phase change memory.
+%P  433-444
+%D 2013
+%J Proc. of the 46th MICRO
+
+
+
+%A  Shruti Padmanabha
+%A  Andrew Lukefahr
+%A  Reetuparna Das
+%A  Scott A. Mahlke
+%T  Trace based phase prediction for tightly-coupled heterogeneous cores.
+%P  445-456
+%D 2013
+%J Proc. of the 46th MICRO
+
+
+
+%A  Jason Power
+%A  Arkaprava Basu
+%A  Junli Gu
+%A  Sooraj Puthoor
+%A  Bradford M. Beckmann
+%A  Mark D. Hill
+%A  Steven K. Reinhardt
+%A  David A. Wood
+%T  Heterogeneous system coherence for integrated CPU-GPU systems.
+%P  457-467
+%D 2013
+%J Proc. of the 46th MICRO
+
+
+
+%A  berber
+%A  Boris Grot
+%A  Javier Picorel
+%A  Babak Falsafi
+%A  Kevin T. Lim
+%A  Parthasarathy Ranganathan
+%T  Meet the walkers: accelerating index traversals for in-memory databases.
+%P  468-479
+%D 2013
+%J Proc. of the 46th MICRO
