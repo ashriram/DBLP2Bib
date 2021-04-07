@@ -3,12 +3,13 @@
 import xml.sax
 import sys
 import io
-reload(sys)    # to re-enable sys.setdefaultencoding()
+# reload(sys)    # to re-enable sys.setdefaultencoding()
 # sys.setdefaultencoding('utf8')
 
 skip = 0
 
-CONFABBRV = {'ISCA': 37, 'HPCA': 16, 'MICRO': 43, 'PACT': 19, 'ASPLOS': 15}
+CONFABBRV = {'ISCA': 37, 'HPCA': 16, 'MICRO': 43,
+             'PACT': 19, 'ASPLOS': 15, 'PLDI': 31}
 
 output = ""
 

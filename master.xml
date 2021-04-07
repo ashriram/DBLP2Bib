@@ -2,15 +2,16 @@
 <dblp>
 
 
-<proceedings key="conf/isca/2016" mdate="2016-09-20">
-<title>43rd ACM/IEEE Annual International Symposium on Computer Architecture, ISCA 2016, Seoul, South Korea, June 18-22, 2016</title>
-<booktitle>ISCA</booktitle>
-<publisher>IEEE Computer Society</publisher>
-<year>2016</year>
-<isbn>978-1-4673-8947-1</isbn>
-<ee>http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7551325</ee>
-<ee>https://www.computer.org/csdl/proceedings/isca/2016/8947/00/index.html</ee>
-<url>db/conf/isca/isca2016.html</url>
+<proceedings key="conf/pldi/2020" mdate="2020-06-09">
+<editor>Alastair F. Donaldson</editor>
+<editor>Emina Torlak</editor>
+<title>Proceedings of the 41st ACM SIGPLAN International Conference on Programming Language Design and Implementation, PLDI 2020, London, UK, June 15-20, 2020</title>
+<publisher>ACM</publisher>
+<booktitle>PLDI</booktitle>
+<year>2020</year>
+<isbn>978-1-4503-7613-6</isbn>
+<ee>https://doi.org/10.1145/3385412</ee>
+<url>db/conf/pldi/pldi2020.html</url>
 </proceedings>
 
 
@@ -19,394 +20,19 @@
 
 
 
-<inproceedings key="conf/isca/AlbericioJHAJM16" mdate="2016-09-20">
-<author>Jorge Albericio</author>
-<author>Patrick Judd</author>
-<author>Tayler H. Hetherington</author>
-<author>Tor M. Aamodt</author>
-<author>Natalie D. Enright Jerger</author>
-<author>Andreas Moshovos</author>
-<title>Cnvlutin: Ineffectual-Neuron-Free Deep Neural Network Computing.</title>
-<pages>1-13</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.11</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.11</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#AlbericioJHAJM16</url>
-</inproceedings>
 
-
-
-
-
-
-<inproceedings key="conf/isca/ShafieeNMBSHWS16" mdate="2016-09-20">
-<author>Ali Shafiee</author>
-<author>Anirban Nag</author>
-<author>Naveen Muralimanohar</author>
-<author>Rajeev Balasubramonian</author>
-<author>John Paul Strachan</author>
-<author>Miao Hu</author>
-<author>R. Stanley Williams</author>
-<author>Vivek Srikumar</author>
-<title>ISAAC: A Convolutional Neural Network Accelerator with In-Situ Analog Arithmetic in Crossbars.</title>
-<pages>14-26</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.12</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.12</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#ShafieeNMBSHWS16</url>
-</inproceedings>
-
-
-
-
-
-
-<inproceedings key="conf/isca/ChiLXZZLWX16" mdate="2016-09-20">
-<author>Ping Chi</author>
-<author>Shuangchen Li</author>
-<author>Cong Xu</author>
-<author>Tao Zhang</author>
-<author>Jishen Zhao</author>
-<author>Yongpan Liu</author>
-<author>Yu Wang</author>
-<author>Yuan Xie</author>
-<title>PRIME: A Novel Processing-in-Memory Architecture for Neural Network Computation in ReRAM-Based Main Memory.</title>
-<pages>27-39</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.13</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.13</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#ChiLXZZLWX16</url>
-</inproceedings>
-
-
-
-
-
-
-<inproceedings key="conf/isca/TorngWB16" mdate="2016-09-20">
-<author>Christopher Torng</author>
-<author>Moyang Wang</author>
-<author>Christopher Batten</author>
-<title>Asymmetry-Aware Work-Stealing Runtimes.</title>
-<pages>40-52</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.14</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.14</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#TorngWB16</url>
-</inproceedings>
-
-
-
-
-
-
-<inproceedings key="conf/isca/TsengZZGS16" mdate="2016-09-20">
-<author>Hung-Wei Tseng</author>
-<author>Qianchen Zhao</author>
-<author>Yuxiao Zhou</author>
-<author>Mark Gahagan</author>
-<author>Steven Swanson</author>
-<title>Morpheus: Creating Application Objects Efficiently for Heterogeneous Computing.</title>
-<pages>53-65</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.15</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.15</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#TsengZZGS16</url>
-</inproceedings>
-
-
-
-
-
-
-<inproceedings key="conf/isca/MahajanYPTE16" mdate="2016-09-20">
-<author>Divya Mahajan</author>
-<author>Amir Yazdanbakhsh</author>
-<author>Jongse Park</author>
-<author>Bradley Thwaites</author>
-<author>Hadi Esmaeilzadeh</author>
-<title>Towards Statistical Guarantees in Controlling Quality Tradeoffs for Approximate Acceleration.</title>
-<pages>66-77</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.16</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.16</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#MahajanYPTE16</url>
-</inproceedings>
-
-
-
-
-
-
-<inproceedings key="conf/isca/JainL16" mdate="2016-09-20">
-<author>Akanksha Jain</author>
-<author>Calvin Lin</author>
-<title>Back to the Future: Leveraging Belady's Algorithm for Improved Cache Replacement.</title>
-<pages>78-89</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.17</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.17</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#JainL16</url>
-</inproceedings>
-
-
-
-
-
-
-<inproceedings key="conf/isca/ParkHH16" mdate="2016-09-20">
-<author>Chang Hyun Park</author>
-<author>Taekyung Heo</author>
-<author>Jaehyuk Huh</author>
-<title>Efficient Synonym Filtering and Scalable Delayed Translation for Hybrid Virtual Caching.</title>
-<pages>90-102</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.18</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.18</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#ParkHH16</url>
-</inproceedings>
-
-
-
-
-
-
-<inproceedings key="conf/isca/ChengZSIJL016" mdate="2016-09-20">
-<author>Hsiang-Yun Cheng</author>
-<author>Jishen Zhao</author>
-<author>Jack Sampson</author>
-<author>Mary Jane Irwin</author>
-<author>Aamer Jaleel</author>
-<author>Yu Lu</author>
-<author>Yuan Xie 0001</author>
-<title>LAP: Loop-Block Aware Inclusion Properties for Energy-Efficient Asymmetric Last Level Caches.</title>
-<pages>103-114</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.19</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.19</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#ChengZSIJL016</url>
-</inproceedings>
-
-
-
-
-
-
-<inproceedings key="conf/isca/KoeplingerPZDKO16" mdate="2016-09-20">
-<author>David Koeplinger</author>
-<author>Raghu Prabhakar</author>
-<author>Yaqi Zhang</author>
-<author>Christina Delimitrou</author>
-<author>Christos Kozyrakis</author>
-<author>Kunle Olukotun</author>
-<title>Automatic Generation of Efficient Accelerators for Reconfigurable Hardware.</title>
-<pages>115-127</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.20</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.20</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#KoeplingerPZDKO16</url>
-</inproceedings>
-
-
-
-
-
-
-<inproceedings key="conf/isca/KimICKZLBA16" mdate="2016-09-20">
-<author>Donggyu Kim</author>
-<author>Adam M. Izraelevitz</author>
-<author>Christopher Celio</author>
-<author>Hokeun Kim</author>
-<author>Brian Zimmer</author>
-<author>Yunsup Lee</author>
-<author>Jonathan Bachrach</author>
-<author>Krste Asanovic</author>
-<title>Strober: Fast and Accurate Sample-Based Energy Simulation for Arbitrary RTL.</title>
-<pages>128-139</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.21</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.21</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#KimICKZLBA16</url>
-</inproceedings>
-
-
-
-
-
-
-<inproceedings key="conf/isca/LaurenzanoZCTM16" mdate="2016-09-20">
-<author>Michael A. Laurenzano</author>
-<author>Yunqi Zhang</author>
-<author>Jiang Chen</author>
-<author>Lingjia Tang</author>
-<author>Jason Mars</author>
-<title>PowerChop: Identifying and Managing Non-critical Units in Hybrid Processor Architectures.</title>
-<pages>140-152</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.22</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.22</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#LaurenzanoZCTM16</url>
-</inproceedings>
-
-
-
-
-
-
-<inproceedings key="conf/isca/GuYBJLYKKYCJC16" mdate="2016-09-20">
-<author>Boncheol Gu</author>
-<author>Andre S. Yoon</author>
-<author>Duck-Ho Bae</author>
-<author>Insoon Jo</author>
-<author>Jinyoung Lee</author>
-<author>Jonghyun Yoon</author>
-<author>Jeong-Uk Kang</author>
-<author>Moonsang Kwon</author>
-<author>Chanho Yoon</author>
-<author>Sangyeun Cho</author>
-<author>Jaeheon Jeong</author>
-<author>Duckhyun Chang</author>
-<title>Biscuit: A Framework for Near-Data Processing of Big Data Workloads.</title>
-<pages>153-165</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.23</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.23</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#GuYBJLYKKYCJC16</url>
-</inproceedings>
-
-
-
-
-
-
-<inproceedings key="conf/isca/OzdalYKAGBO16" mdate="2016-09-20">
-<author>Muhammet Mustafa Ozdal</author>
-<author>Serif Yesil</author>
-<author>Taemin Kim</author>
-<author>Andrey Ayupov</author>
-<author>John Greth</author>
-<author>Steven M. Burns</author>
-<author>&#214;zcan &#214;zturk</author>
-<title>Energy Efficient Architecture for Graph Analytics Accelerators.</title>
-<pages>166-177</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.24</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.24</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#OzdalYKAGBO16</url>
-</inproceedings>
-
-
-
-
-
-
-<inproceedings key="conf/isca/MagakiKGT16" mdate="2016-09-20">
-<author>Ikuo Magaki</author>
-<author>Moein Khazraee</author>
-<author>Luis Vega Gutierrez</author>
-<author>Michael Bedford Taylor</author>
-<title>ASIC Clouds: Specializing the Datacenter.</title>
-<pages>178-190</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.25</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.25</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#MagakiKGT16</url>
-</inproceedings>
-
-
-
-
-
-
-<inproceedings key="conf/isca/OhKYPPRA16" mdate="2016-09-20">
-<author>Yunho Oh</author>
-<author>Keunsoo Kim</author>
-<author>Myung Kuk Yoon</author>
-<author>Jong Hyun Park</author>
-<author>Yongjun Park</author>
-<author>Won Woo Ro</author>
-<author>Murali Annavaram</author>
-<title>APRES: Improving Cache Efficiency by Exploiting Load Characteristics on GPUs.</title>
-<pages>191-203</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.26</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.26</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#OhKYPPRA16</url>
-</inproceedings>
-
-
-
-
-
-
-<inproceedings key="conf/isca/HsiehEKCOVMK16" mdate="2016-09-20">
-<author>Kevin Hsieh</author>
-<author>Eiman Ebrahimi</author>
-<author>Gwangsun Kim</author>
-<author>Niladrish Chatterjee</author>
-<author>Mike O'Connor</author>
-<author>Nandita Vijaykumar</author>
-<author>Onur Mutlu</author>
-<author>Stephen W. Keckler</author>
-<title>Transparent Offloading and Mapping (TOM): Enabling Programmer-Transparent Near-Data Processing in GPU Systems.</title>
-<pages>204-216</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.27</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.27</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#HsiehEKCOVMK16</url>
-</inproceedings>
-
-
-
-
-
-
-<inproceedings key="conf/isca/ParkHH16a" mdate="2017-02-08">
-<author>Chang Hyun Park</author>
-<author>Taekyung Heo</author>
-<author>Jaehyuk Huh</author>
-<title>Efficient Synonym Filtering and Scalable Delayed Translation for Hybrid Virtual Caching.</title>
-<pages>217-229</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.28</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.28</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#ParkHH16a</url>
+<inproceedings key="conf/pldi/MiltnerPMW20" mdate="2020-06-09">
+<author>Anders Miltner</author>
+<author>Saswat Padhi</author>
+<author>Todd D. Millstein</author>
+<author>David Walker</author>
+<title>Data-driven inference of representation invariants.</title>
+<pages>1-15</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385967</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#MiltnerPMW20</url>
 </inproceedings>
 
 
@@ -415,20 +41,19 @@
 
 
 
-<inproceedings key="conf/isca/XuJKRA16" mdate="2016-09-20">
-<author>Qiumin Xu</author>
-<author>Hyeran Jeon</author>
-<author>Keunsoo Kim</author>
-<author>Won Woo Ro</author>
-<author>Murali Annavaram</author>
-<title>Warped-Slicer: Efficient Intra-SM Slicing through Dynamic Resource Partitioning for GPU Multiprogramming.</title>
-<pages>230-242</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.29</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.29</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#XuJKRA16</url>
+<inproceedings key="conf/pldi/SakkasECWJ20" mdate="2020-06-09">
+<author>Georgios Sakkas</author>
+<author>Madeline Endres</author>
+<author>Benjamin Cosman</author>
+<author>Westley Weimer</author>
+<author>Ranjit Jhala</author>
+<title>Type error feedback via analytic program repair.</title>
+<pages>16-30</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386005</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#SakkasECWJ20</url>
 </inproceedings>
 
 
@@ -436,22 +61,22 @@
 
 
 
-<inproceedings key="conf/isca/HanLMPPHD16" mdate="2016-09-20">
-<author>Song Han</author>
-<author>Xingyu Liu</author>
-<author>Huizi Mao</author>
-<author>Jing Pu</author>
-<author>Ardavan Pedram</author>
-<author>Mark A. Horowitz</author>
-<author>William J. Dally</author>
-<title>EIE: Efficient Inference Engine on Compressed Deep Neural Network.</title>
-<pages>243-254</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.30</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.30</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#HanLMPPHD16</url>
+
+<inproceedings key="conf/pldi/NandiWAWDGT20" mdate="2020-11-20">
+<author>Chandrakana Nandi</author>
+<author>Max Willsey</author>
+<author>Adam Anderson 0004</author>
+<author>James R. Wilcox</author>
+<author>Eva Darulova</author>
+<author>Dan Grossman</author>
+<author>Zachary Tatlock</author>
+<title>Synthesizing structured CAD models with equality saturation and inverse transformations.</title>
+<pages>31-44</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386012</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#NandiWAWDGT20</url>
 </inproceedings>
 
 
@@ -459,20 +84,16 @@
 
 
 
-<inproceedings key="conf/isca/LiKamWaHGPZ16" mdate="2016-09-20">
-<author>Robert LiKamWa</author>
-<author>Yunhui Hou</author>
-<author>Yuan Gao</author>
-<author>Mia Polansky</author>
-<author>Lin Zhong</author>
-<title>RedEye: Analog ConvNet Image Sensor Architecture for Continuous Mobile Vision.</title>
-<pages>255-266</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.31</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.31</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#LiKamWaHGPZ16</url>
+<inproceedings key="conf/pldi/FlattD20" mdate="2020-06-09">
+<author>Matthew Flatt</author>
+<author>R. Kent Dybvig</author>
+<title>Compiler and runtime support for continuation marks.</title>
+<pages>45-58</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385981</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#FlattD20</url>
 </inproceedings>
 
 
@@ -480,24 +101,18 @@
 
 
 
-<inproceedings key="conf/isca/ReagenWARLLHWB16" mdate="2016-09-20">
-<author>Brandon Reagen</author>
-<author>Paul N. Whatmough</author>
-<author>Robert Adolf</author>
-<author>Saketh Rama</author>
-<author>Hyunkwang Lee</author>
-<author>Sae Kyu Lee</author>
-<author>Jos'u Miguel Hern\'andez-Lobato</author>
-<author>Gu-Yeon Wei</author>
-<author>David M. Brooks</author>
-<title>Minerva: Enabling Low-Power, Highly-Accurate Deep Neural Network Accelerators.</title>
-<pages>267-278</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.32</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.32</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#ReagenWARLLHWB16</url>
+
+<inproceedings key="conf/pldi/GencBX20" mdate="2020-06-09">
+<author>Kaan Gen\c{c}</author>
+<author>Michael D. Bond</author>
+<author>Guoqing Harry Xu</author>
+<title>Crafty: efficient, HTM-compatible persistent transactions.</title>
+<pages>59-74</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385991</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#GencBX20</url>
 </inproceedings>
 
 
@@ -505,17 +120,17 @@
 
 
 
-<inproceedings key="conf/isca/YaoL16" mdate="2016-09-20">
-<author>Yuan Yao</author>
-<author>Zhonghai Lu</author>
-<title>Opportunistic Competition Overhead Reduction for Expediting Critical Section in NoC Based CMPs.</title>
-<pages>279-290</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.33</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.33</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#YaoL16</url>
+
+<inproceedings key="conf/pldi/FarvardinR20" mdate="2020-06-09">
+<author>Kavon Farvardin</author>
+<author>John H. Reppy</author>
+<title>From folklore to fact: comparing implementations of stacks and continuations.</title>
+<pages>75-90</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385994</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#FarvardinR20</url>
 </inproceedings>
 
 
@@ -523,23 +138,19 @@
 
 
 
-<inproceedings key="conf/isca/KimKCKKOJL16" mdate="2016-09-20">
-<author>Channoh Kim</author>
-<author>Sungmin Kim</author>
-<author>Hyeon-Gyu Cho</author>
-<author>Doo-Young Kim</author>
-<author>Jaehyeok Kim</author>
-<author>Young H. Oh</author>
-<author>Hakbeom Jang</author>
-<author>Jae W. Lee</author>
-<title>Short-Circuit Dispatch: Accelerating Virtual Machine Interpreters on Embedded Processors.</title>
-<pages>291-303</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.34</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.34</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#KimKCKKOJL16</url>
+
+<inproceedings key="conf/pldi/AllamanisBDG20" mdate="2020-06-09">
+<author>Miltiadis Allamanis</author>
+<author>Earl T. Barr</author>
+<author>Soline Ducousso</author>
+<author>Zheng Gao</author>
+<title>Typilus: neural type hints.</title>
+<pages>91-105</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385997</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#AllamanisBDG20</url>
 </inproceedings>
 
 
@@ -547,20 +158,20 @@
 
 
 
-<inproceedings key="conf/isca/DallLLNK16" mdate="2016-09-20">
-<author>Christoffer Dall</author>
-<author>Shih-Wei Li</author>
-<author>Jin Tack Lim</author>
-<author>Jason Nieh</author>
-<author>Georgios Koloventzos</author>
-<title>ARM Virtualization: Performance and Architectural Implications.</title>
-<pages>304-316</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.35</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.35</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#DallLLNK16</url>
+
+<inproceedings key="conf/pldi/YaoRWJG20" mdate="2020-06-09">
+<author>Jianan Yao</author>
+<author>Gabriel Ryan</author>
+<author>Justin Wong</author>
+<author>Suman Jana</author>
+<author>Ronghui Gu</author>
+<title>Learning nonlinear loop invariants with gated continuous logic networks.</title>
+<pages>106-120</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385986</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#YaoRWJG20</url>
 </inproceedings>
 
 
@@ -568,18 +179,17 @@
 
 
 
-<inproceedings key="conf/isca/GaurAS16" mdate="2016-09-20">
-<author>Jayesh Gaur</author>
-<author>Alaa R. Alameldeen</author>
-<author>Sreenivas Subramoney</author>
-<title>Base-Victim Compression: An Opportunistic Cache Compression Architecture.</title>
-<pages>317-328</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.36</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.36</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#GaurAS16</url>
+
+<inproceedings key="conf/pldi/0022S20" mdate="2020-06-09">
+<author>Ke Wang 0022</author>
+<author>Zhendong Su</author>
+<title>Blended, precise semantic program embeddings.</title>
+<pages>121-134</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385999</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#0022S20</url>
 </inproceedings>
 
 
@@ -587,19 +197,21 @@
 
 
 
-<inproceedings key="conf/isca/KimSCE16" mdate="2016-09-20">
-<author>Jungrae Kim</author>
-<author>Michael Sullivan</author>
-<author>Esha Choukse</author>
-<author>Mattan Erez</author>
-<title>Bit-Plane Compression: Transforming Data for Better Compression in Many-Core Architectures.</title>
-<pages>329-340</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.37</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.37</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#KimSCE16</url>
+
+<inproceedings key="conf/pldi/BrownRNLSS20" mdate="2020-06-09">
+<author>Fraser Brown</author>
+<author>John Renner</author>
+<author>Andres N\"otzli</author>
+<author>Sorin Lerner</author>
+<author>Hovav Shacham</author>
+<author>Deian Stefan</author>
+<title>Towards a verified range analysis for JavaScript JITs.</title>
+<pages>135-150</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385968</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#BrownRNLSS20</url>
 </inproceedings>
 
 
@@ -607,18 +219,18 @@
 
 
 
-<inproceedings key="conf/isca/NairSQ16" mdate="2016-09-20">
-<author>Prashant J. Nair</author>
-<author>Vilas Sridharan</author>
-<author>Moinuddin K. Qureshi</author>
-<title>XED: Exposing On-Die Error Detection Information for Strong Memory Reliability.</title>
-<pages>341-353</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.38</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.38</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#NairSQ16</url>
+
+<inproceedings key="conf/pldi/DuckGR20" mdate="2020-06-09">
+<author>Gregory J. Duck</author>
+<author>Xiang Gao</author>
+<author>Abhik Roychoudhury</author>
+<title>Binary rewriting without control flow recovery.</title>
+<pages>151-163</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385972</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#DuckGR20</url>
 </inproceedings>
 
 
@@ -626,17 +238,19 @@
 
 
 
-<inproceedings key="conf/isca/AlamM16" mdate="2016-09-20">
-<author>Mohammad Mejbah Ul Alam</author>
-<author>Abdullah Muzahid</author>
-<title>Production-Run Software Failure Diagnosis via Adaptive Communication Tracking.</title>
-<pages>354-366</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.39</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.39</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#AlamM16</url>
+
+<inproceedings key="conf/pldi/PorterMBP20" mdate="2020-06-09">
+<author>Chris Porter</author>
+<author>Girish Mururu</author>
+<author>Prithayan Barua</author>
+<author>Santosh Pande</author>
+<title>BlankIt library debloating: getting what you want instead of cutting what you don't.</title>
+<pages>164-180</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386017</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#PorterMBP20</url>
 </inproceedings>
 
 
@@ -644,18 +258,19 @@
 
 
 
-<inproceedings key="conf/isca/ChenES16" mdate="2016-09-20">
-<author>Yu-Hsin Chen</author>
-<author>Joel S. Emer</author>
-<author>Vivienne Sze</author>
-<title>Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks.</title>
-<pages>367-379</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.40</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.40</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#ChenES16</url>
+
+<inproceedings key="conf/pldi/KrishnaPSW20" mdate="2020-06-09">
+<author>Siddharth Krishna</author>
+<author>Nisarg Patel</author>
+<author>Dennis E. Shasha</author>
+<author>Thomas Wies</author>
+<title>Verifying concurrent search structure templates.</title>
+<pages>181-196</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386029</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#KrishnaPSW20</url>
 </inproceedings>
 
 
@@ -663,20 +278,24 @@
 
 
 
-<inproceedings key="conf/isca/KimKCYM16" mdate="2016-09-21">
-<author>Duckhwan Kim 0001</author>
-<author>Jaeha Kung</author>
-<author>Sek M. Chai</author>
-<author>Sudhakar Yalamanchili</author>
-<author>Saibal Mukhopadhyay</author>
-<title>Neurocube: A Programmable Digital Neuromorphic Architecture with High-Density 3D Memory.</title>
-<pages>380-392</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.41</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.41</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#KimKCYM16</url>
+
+<inproceedings key="conf/pldi/LorchCKPQSWZ20" mdate="2020-12-25">
+<author>Jacob R. Lorch</author>
+<author>Yixuan Chen 0002</author>
+<author>Manos Kapritsos</author>
+<author>Bryan Parno</author>
+<author>Shaz Qadeer</author>
+<author>Upamanyu Sharma</author>
+<author>James R. Wilcox</author>
+<author>Xueyuan Zhao</author>
+<title>Armada: low-effort verification of high-performance concurrent programs.</title>
+<pages>197-210</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385971</ee>
+<ee>https://www.wikidata.org/entity/Q104348012</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#LorchCKPQSWZ20</url>
 </inproceedings>
 
 
@@ -684,23 +303,16 @@
 
 
 
-<inproceedings key="conf/isca/LiuDTHLXCC16" mdate="2016-09-20">
-<author>Shaoli Liu</author>
-<author>Zidong Du</author>
-<author>Jinhua Tao</author>
-<author>Dong Han</author>
-<author>Tao Luo</author>
-<author>Yuan Xie</author>
-<author>Yunji Chen</author>
-<author>Tianshi Chen</author>
-<title>Cambricon: An Instruction Set Architecture for Neural Networks.</title>
-<pages>393-405</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.42</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.42</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#LiuDTHLXCC16</url>
+<inproceedings key="conf/pldi/LahavB20" mdate="2020-06-09">
+<author>Ori Lahav</author>
+<author>Udi Boker</author>
+<title>Decidable verification under a causally consistent shared memory.</title>
+<pages>211-226</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385966</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#LahavB20</url>
 </inproceedings>
 
 
@@ -708,18 +320,20 @@
 
 
 
-<inproceedings key="conf/isca/HuangHL16" mdate="2016-09-20">
-<author>Ziqiang Huang</author>
-<author>Andrew D. Hilton</author>
-<author>Benjamin C. Lee</author>
-<title>Decoupling Loads for Nano-Instruction Set Computers.</title>
-<pages>406-417</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.43</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.43</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#HuangHL16</url>
+
+<inproceedings key="conf/pldi/KraglEHMQ20" mdate="2020-09-05">
+<author orcid="0000-0001-7745-9117">Bernhard Kragl</author>
+<author>Constantin Enea</author>
+<author>Thomas A. Henzinger</author>
+<author>Suha Orhun Mutluergil</author>
+<author>Shaz Qadeer</author>
+<title>Inductive sequentialization of asynchronous programs.</title>
+<pages>227-242</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385980</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#KraglEHMQ20</url>
 </inproceedings>
 
 
@@ -727,20 +341,18 @@
 
 
 
-<inproceedings key="conf/isca/0001PUCV16" mdate="2016-09-20">
-<author>Timothy Hayes 0001</author>
-<author>Oscar Palomar</author>
-<author>Osman S. Unsal</author>
-<author>Adri\'an Cristal</author>
-<author>Mateo Valero</author>
-<title>Future Vector Microprocessor Extensions for Data Aggregations.</title>
-<pages>418-430</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.44</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.44</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#0001PUCV16</url>
+<inproceedings key="conf/pldi/BourgeatPCA20" mdate="2020-10-25">
+<author>Thomas Bourgeat</author>
+<author orcid="0000-0002-1900-3901">Cl'ument Pit-Claudel</author>
+<author>Adam Chlipala</author>
+<author>Arvind</author>
+<title>The essence of Bluespec: a core language for rule-based hardware design.</title>
+<pages>243-257</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385965</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#BourgeatPCA20</url>
 </inproceedings>
 
 
@@ -748,17 +360,18 @@
 
 
 
-<inproceedings key="conf/isca/SleimanW16" mdate="2016-09-20">
-<author>Faissal M. Sleiman</author>
-<author>Thomas F. Wenisch</author>
-<title>Efficiently Scaling Out-of-Order Cores for Simultaneous Multithreading.</title>
-<pages>431-443</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.45</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.45</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#SleimanW16</url>
+<inproceedings key="conf/pldi/SchuikiKGB20" mdate="2020-06-09">
+<author>Fabian Schuiki</author>
+<author>Andreas Kurth</author>
+<author>Tobias Grosser</author>
+<author>Luca Benini</author>
+<title>LLHD: a multi-level intermediate representation for hardware description languages.</title>
+<pages>258-271</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386024</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#SchuikiKGB20</url>
 </inproceedings>
 
 
@@ -766,20 +379,19 @@
 
 
 
-<inproceedings key="conf/isca/HashemiKEMP16" mdate="2016-09-20">
-<author>Milad Hashemi</author>
-<author>Khubaib</author>
-<author>Eiman Ebrahimi</author>
-<author>Onur Mutlu</author>
-<author>Yale N. Patt</author>
-<title>Accelerating Dependent Cache Misses with an Enhanced Memory Controller.</title>
-<pages>444-455</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.46</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.46</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#HashemiKEMP16</url>
+
+<inproceedings key="conf/pldi/ZhuHCW20" mdate="2020-06-09">
+<author>Shaopeng Zhu</author>
+<author>Shih-Han Hung</author>
+<author>Shouvanik Chakrabarti</author>
+<author>Xiaodi Wu</author>
+<title>On the principles of differentiable quantum programming languages.</title>
+<pages>272-285</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386011</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#ZhuHCW20</url>
 </inproceedings>
 
 
@@ -787,19 +399,19 @@
 
 
 
-<inproceedings key="conf/isca/ZhangMMT16" mdate="2016-09-20">
-<author>Yunqi Zhang</author>
-<author>David Meisner</author>
-<author>Jason Mars</author>
-<author>Lingjia Tang</author>
-<title>Treadmill: Attributing the Source of Tail Latency through Precise Load Testing and Statistical Inference.</title>
-<pages>456-468</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.47</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.47</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#ZhangMMT16</url>
+
+<inproceedings key="conf/pldi/BichselBGV20" mdate="2020-06-09">
+<author>Benjamin Bichsel</author>
+<author>Maximilian Baader</author>
+<author>Timon Gehr</author>
+<author>Martin T. Vechev</author>
+<title>Silq: a high-level quantum language with safe uncomputation and intuitive semantics.</title>
+<pages>286-300</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386007</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#BichselBGV20</url>
 </inproceedings>
 
 
@@ -807,24 +419,18 @@
 
 
 
-<inproceedings key="conf/isca/WuDGHJKLMS16" mdate="2016-09-20">
-<author>Qiang Wu</author>
-<author>Qingyuan Deng</author>
-<author>Lakshmi Ganesh</author>
-<author>Chang-Hong Hsu</author>
-<author>Yun Jin</author>
-<author>Sanjeev Kumar</author>
-<author>Bin Li</author>
-<author>Justin Meza</author>
-<author>Yee Jiun Song</author>
-<title>Dynamo: Facebook's Data Center-Wide Power Management System.</title>
-<pages>469-480</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.48</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.48</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#WuDGHJKLMS16</url>
+
+<inproceedings key="conf/pldi/YangOW20" mdate="2020-06-09">
+<author>Albert Mingkun Yang</author>
+<author>Erik &#214;sterlund</author>
+<author>Tobias Wrigstad</author>
+<title>Improving program locality in the GC using hotness.</title>
+<pages>301-313</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385977</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#YangOW20</url>
 </inproceedings>
 
 
@@ -832,16 +438,17 @@
 
 
 
-<inproceedings key="conf/isca/Wong16" mdate="2016-09-20">
-<author>Daniel Wong 0001</author>
-<title>Peak Efficiency Aware Scheduling for Highly Energy Proportional Servers.</title>
-<pages>481-492</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.49</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.49</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#Wong16</url>
+
+<inproceedings key="conf/pldi/KangJ20" mdate="2020-06-09">
+<author>Jeehoon Kang</author>
+<author>Jaehwang Jung</author>
+<title>A marriage of pointer- and epoch-based reclamation.</title>
+<pages>314-328</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385978</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#KangJ20</url>
 </inproceedings>
 
 
@@ -849,21 +456,19 @@
 
 
 
-<inproceedings key="conf/isca/LiWHCLG16" mdate="2016-09-20">
-<author>Chao Li</author>
-<author>Zhenhua Wang</author>
-<author>Xiaofeng Hou</author>
-<author>Haopeng Chen</author>
-<author>Xiaoyao Liang</author>
-<author>Minyi Guo</author>
-<title>Power Attack Defense: Securing Battery-Backed Data Centers.</title>
-<pages>493-505</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.50</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.50</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#LiWHCLG16</url>
+
+<inproceedings key="conf/pldi/SuchyCHD20" mdate="2020-06-09">
+<author>Brian Suchy</author>
+<author>Simone Campanoni</author>
+<author>Nikos Hardavellas</author>
+<author>Peter A. Dinda</author>
+<title>CARAT: a case for virtual memory through compiler- and runtime-based address translation.</title>
+<pages>329-345</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385987</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#SuchyCHD20</url>
 </inproceedings>
 
 
@@ -871,22 +476,23 @@
 
 
 
-<inproceedings key="conf/isca/GaoDNMZBK16" mdate="2016-09-20">
-<author>Mingyu Gao</author>
-<author>Christina Delimitrou</author>
-<author>Dimin Niu</author>
-<author>Krishna T. Malladi</author>
-<author>Hongzhong Zheng</author>
-<author>Bob Brennan</author>
-<author>Christos Kozyrakis</author>
-<title>DRAF: A Low-Power DRAM-Based Reconfigurable Acceleration Fabric.</title>
-<pages>506-518</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.51</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.51</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#GaoDNMZBK16</url>
+
+<inproceedings key="conf/pldi/WattPPBDFPG20" mdate="2021-01-21">
+<author>Conrad Watt</author>
+<author>Christopher Pulte</author>
+<author orcid="0000-0002-9448-6587">Anton Podkopaev</author>
+<author>Guillaume Barbier</author>
+<author>Stephen Dolan</author>
+<author>Shaked Flur</author>
+<author>Jean Pichon-Pharabod</author>
+<author>Shu-yu Guo</author>
+<title>Repairing and mechanising the JavaScript relaxed memory model.</title>
+<pages>346-361</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385973</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#WattPPBDFPG20</url>
 </inproceedings>
 
 
@@ -894,21 +500,21 @@
 
 
 
-<inproceedings key="conf/isca/ZhangNFSXC16" mdate="2016-09-20">
-<author>Lunkai Zhang</author>
-<author>Brian Neely</author>
-<author>Diana Franklin</author>
-<author>Dmitri B. Strukov</author>
-<author>Yuan Xie</author>
-<author>Frederic T. Chong</author>
-<title>Mellow Writes: Extending Lifetime in Resistive Memories through Selective Slow Write Backs.</title>
-<pages>519-531</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.52</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.52</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#ZhangNFSXC16</url>
+<inproceedings key="conf/pldi/LeeCPCHLV20" mdate="2020-12-29">
+<author>Sung-Hwan Lee</author>
+<author>Minki Cho</author>
+<author orcid="0000-0002-9448-6587">Anton Podkopaev</author>
+<author>Soham Chakraborty</author>
+<author>Chung-Kil Hur</author>
+<author>Ori Lahav</author>
+<author>Viktor Vafeiadis</author>
+<title>Promising 2.0: global optimizations in relaxed memory concurrency.</title>
+<pages>362-376</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386010</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#LeeCPCHLV20</url>
 </inproceedings>
 
 
@@ -916,17 +522,19 @@
 
 
 
-<inproceedings key="conf/isca/ZhouW16" mdate="2016-09-20">
-<author>Yanqi Zhou</author>
-<author>David Wentzlaff</author>
-<title>MITTS: Memory Inter-arrival Time Traffic Shaping.</title>
-<pages>532-544</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.53</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.53</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#ZhouW16</url>
+<inproceedings key="conf/pldi/FriedmanBWBP20" mdate="2020-06-09">
+<author>Michal Friedman</author>
+<author>Naama Ben-David</author>
+<author>Yuanhao Wei</author>
+<author>Guy E. Blelloch</author>
+<author>Erez Petrank</author>
+<title>NVTraverse: in NVRAM data structures, the destination is more important than the journey.</title>
+<pages>377-392</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386031</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#FriedmanBWBP20</url>
 </inproceedings>
 
 
@@ -934,17 +542,24 @@
 
 
 
-<inproceedings key="conf/isca/MiguelJ16" mdate="2016-09-20">
-<author>Joshua San Miguel</author>
-<author>Natalie D. Enright Jerger</author>
-<title>The Anytime Automaton.</title>
-<pages>545-557</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.54</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.54</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#MiguelJ16</url>
+
+<inproceedings key="conf/pldi/NigamATLBYKSZ20" mdate="2020-08-18">
+<author>Rachit Nigam</author>
+<author>Sachille Atapattu</author>
+<author>Samuel Thomas</author>
+<author>Zhijing Li 0002</author>
+<author>Theodore Bauer</author>
+<author>Yuwei Ye</author>
+<author>Apurva Koti</author>
+<author>Adrian Sampson</author>
+<author>Zhiru Zhang</author>
+<title>Predictable accelerator design with time-sensitive affine types.</title>
+<pages>393-407</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385974</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#NigamATLBYKSZ20</url>
 </inproceedings>
 
 
@@ -952,22 +567,24 @@
 
 
 
-<inproceedings key="conf/isca/WangZLBYDL16" mdate="2016-09-20">
-<author>Siyang Wang</author>
-<author>Xiangyu Zhang</author>
-<author>Yuxuan Li</author>
-<author>Ramin Bashizade</author>
-<author>Song Yang</author>
-<author>Chris Dwyer</author>
-<author>Alvin R. Lebeck</author>
-<title>Accelerating Markov Random Field Inference Using Molecular Optical Gibbs Sampling Units.</title>
-<pages>558-569</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.55</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.55</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#WangZLBYDL16</url>
+
+<inproceedings key="conf/pldi/DurstFHADBPFH20" mdate="2020-06-09">
+<author>David Durst</author>
+<author>Matthew Feldman</author>
+<author>Dillon Huff</author>
+<author>David Akeley</author>
+<author>Ross G. Daly</author>
+<author>Gilbert Louis Bernstein</author>
+<author>Marco Patrignani</author>
+<author>Kayvon Fatahalian</author>
+<author>Pat Hanrahan</author>
+<title>Type-directed scheduling of streaming accelerators.</title>
+<pages>408-422</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385983</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#DurstFHADBPFH20</url>
 </inproceedings>
 
 
@@ -975,20 +592,20 @@
 
 
 
-<inproceedings key="conf/isca/HuangGSTS16" mdate="2016-09-20">
-<author>Yipeng Huang</author>
-<author>Ning Guo</author>
-<author>Mingoo Seok</author>
-<author>Yannis P. Tsividis</author>
-<author>Simha Sethumadhavan</author>
-<title>Evaluation of an Analog Accelerator for Linear Algebra.</title>
-<pages>570-582</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.56</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.56</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#HuangGSTS16</url>
+
+<inproceedings key="conf/pldi/EmrichLSCC20" mdate="2020-06-09">
+<author>Frank Emrich</author>
+<author>Sam Lindley</author>
+<author>Jan Stolarek</author>
+<author>James Cheney</author>
+<author>Jonathan Coates</author>
+<title>FreezeML: complete and easy type inference for first-class polymorphism.</title>
+<pages>423-437</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386003</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#EmrichLSCC20</url>
 </inproceedings>
 
 
@@ -996,19 +613,18 @@
 
 
 
-<inproceedings key="conf/isca/WangRSY16" mdate="2016-09-20">
-<author>Jin Wang</author>
-<author>Norm Rubin</author>
-<author>Albert Sidelnik</author>
-<author>Sudhakar Yalamanchili</author>
-<title>LaPerm: Locality Aware Scheduler for Dynamic Parallelism on GPUs.</title>
-<pages>583-595</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.57</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.57</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#WangRSY16</url>
+
+<inproceedings key="conf/pldi/LiCL20" mdate="2020-06-09">
+<author>Ao Li</author>
+<author>Jemin Andrew Choi</author>
+<author>Fan Long</author>
+<title>Securing smart contract with runtime validation.</title>
+<pages>438-453</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385982</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#LiCL20</url>
 </inproceedings>
 
 
@@ -1016,18 +632,20 @@
 
 
 
-<inproceedings key="conf/isca/ShaharBS16" mdate="2016-09-20">
-<author>Sagi Shahar</author>
-<author>Shai Bergman</author>
-<author>Mark Silberstein</author>
-<title>ActivePointers: A Case for Software Address Translation on GPUs.</title>
-<pages>596-608</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.58</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.58</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#ShaharBS16</url>
+
+<inproceedings key="conf/pldi/BrentGLSS20" mdate="2020-06-09">
+<author>Lexi Brent</author>
+<author>Neville Grech</author>
+<author>Sifis Lagouvardos</author>
+<author>Bernhard Scholz</author>
+<author>Yannis Smaragdakis</author>
+<title>Ethainter: a smart contract security analyzer for composite vulnerabilities.</title>
+<pages>454-469</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385990</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#BrentGLSS20</url>
 </inproceedings>
 
 
@@ -1035,20 +653,19 @@
 
 
 
-<inproceedings key="conf/isca/YoonKLRA16" mdate="2016-09-20">
-<author>Myung Kuk Yoon</author>
-<author>Keunsoo Kim</author>
-<author>Sangpil Lee</author>
-<author>Won Woo Ro</author>
-<author>Murali Annavaram</author>
-<title>Virtual Thread: Maximizing Thread-Level Parallelism beyond GPU Scheduling Limit.</title>
-<pages>609-621</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.59</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.59</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#YoonKLRA16</url>
+
+<inproceedings key="conf/pldi/BeillahiCEE20" mdate="2020-06-09">
+<author>Sidi Mohamed Beillahi</author>
+<author>Gabriela F. Ciocarlie</author>
+<author>Michael Emmi</author>
+<author>Constantin Enea</author>
+<title>Behavioral simulation for smart contracts.</title>
+<pages>470-486</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386022</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#BeillahiCEE20</url>
 </inproceedings>
 
 
@@ -1056,19 +673,20 @@
 
 
 
-<inproceedings key="conf/isca/KimSLE16" mdate="2016-09-20">
-<author>Jungrae Kim</author>
-<author>Michael Sullivan</author>
-<author>Sangkug Lym</author>
-<author>Mattan Erez</author>
-<title>All-Inclusive ECC: Thorough End-to-End Protection for Reliable Computer Memory.</title>
-<pages>622-633</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.60</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.60</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#KimSLE16</url>
+
+<inproceedings key="conf/pldi/Chen0YDD20" mdate="2020-06-09">
+<author>Qiaochu Chen</author>
+<author>Xinyu Wang 0006</author>
+<author>Xi Ye</author>
+<author>Greg Durrett</author>
+<author>Isil Dillig</author>
+<title>Multi-modal synthesis of regular expressions.</title>
+<pages>487-502</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385988</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#Chen0YDD20</url>
 </inproceedings>
 
 
@@ -1076,19 +694,19 @@
 
 
 
-<inproceedings key="conf/isca/DuweJP016" mdate="2016-09-20">
-<author>Henry Duwe</author>
-<author>Xun Jian</author>
-<author>Daniel Petrisko</author>
-<author>Rakesh Kumar 0002</author>
-<title>Rescuing Uncorrectable Fault Patterns in On-Chip Memories through Error Pattern Transformation.</title>
-<pages>634-644</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.61</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.61</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#DuweJP016</url>
+
+<inproceedings key="conf/pldi/LeeLOY20" mdate="2020-06-09">
+<author>DongKwon Lee</author>
+<author>Woosuk Lee</author>
+<author>Hakjoo Oh</author>
+<author>Kwangkeun Yi</author>
+<title>Optimizing homomorphic evaluation circuits by program synthesis and term rewriting.</title>
+<pages>503-518</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385996</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#LeeLOY20</url>
 </inproceedings>
 
 
@@ -1096,17 +714,19 @@
 
 
 
-<inproceedings key="conf/isca/KimE16" mdate="2016-09-20">
-<author>Dong-Wan Kim</author>
-<author>Mattan Erez</author>
-<title>RelaxFault Memory Repair.</title>
-<pages>645-657</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.62</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.62</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#KimE16</url>
+
+<inproceedings key="conf/pldi/VilaGGK20" mdate="2020-06-09">
+<author>Pepe Vila</author>
+<author>Pierre Ganty</author>
+<author>Marco Guarnieri</author>
+<author>Boris K\"opf</author>
+<title>CacheQuery: learning replacement policies from hardware caches.</title>
+<pages>519-532</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386008</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#VilaGGK20</url>
 </inproceedings>
 
 
@@ -1114,19 +734,17 @@
 
 
 
-<inproceedings key="conf/isca/PothukuchiAVT16" mdate="2016-09-20">
-<author>Raghavendra Pradyumna Pothukuchi</author>
-<author>Amin Ansari</author>
-<author>Petros G. Voulgaris</author>
-<author>Josep Torrellas</author>
-<title>Using Multiple Input, Multiple Output Formal Control to Maximize Resource Efficiency in Architectures.</title>
-<pages>658-670</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.63</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.63</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#PothukuchiAVT16</url>
+
+<inproceedings key="conf/pldi/BerryS20" mdate="2020-06-09">
+<author>G'urard Berry</author>
+<author>Manuel Serrano</author>
+<title>HipHop.js: (A)Synchronous reactive web programming.</title>
+<pages>533-545</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385984</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#BerryS20</url>
 </inproceedings>
 
 
@@ -1134,18 +752,21 @@
 
 
 
-<inproceedings key="conf/isca/Cherupalli0S16" mdate="2016-09-20">
-<author>Hari Cherupalli</author>
-<author>Rakesh Kumar 0002</author>
-<author>John Sartori</author>
-<title>Exploiting Dynamic Timing Slack for Energy Efficiency in Ultra-Low-Power Embedded Systems.</title>
-<pages>671-681</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.64</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.64</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#Cherupalli0S16</url>
+
+<inproceedings key="conf/pldi/DathathriKSDLM20" mdate="2020-06-09">
+<author>Roshan Dathathri</author>
+<author>Blagovesta Kostova</author>
+<author>Olli Saarikivi</author>
+<author>Wei Dai</author>
+<author>Kim Laine</author>
+<author>Madan Musuvathi</author>
+<title>EVA: an encrypted vector arithmetic language and compiler for efficient homomorphic computation.</title>
+<pages>546-561</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386023</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#DathathriKSDLM20</url>
 </inproceedings>
 
 
@@ -1153,18 +774,16 @@
 
 
 
-<inproceedings key="conf/isca/ZhouHW16" mdate="2016-09-20">
-<author>Yanqi Zhou</author>
-<author>Henry Hoffmann</author>
-<author>David Wentzlaff</author>
-<title>CASH: Supporting IaaS Customers with a Sub-core Configurable Architecture.</title>
-<pages>682-694</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.65</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.65</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#ZhouHW16</url>
+
+<inproceedings key="conf/pldi/Boehm20" mdate="2020-06-09">
+<author>Hans-J. Boehm</author>
+<title>Towards an API for the real numbers.</title>
+<pages>562-576</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386037</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#Boehm20</url>
 </inproceedings>
 
 
@@ -1172,19 +791,21 @@
 
 
 
-<inproceedings key="conf/isca/ArjomandKSD16" mdate="2016-09-20">
-<author>Mohammad Arjomand</author>
-<author>Mahmut T. Kandemir</author>
-<author>Anand Sivasubramaniam</author>
-<author>Chita R. Das</author>
-<title>Boosting Access Parallelism to PCM-Based Main Memory.</title>
-<pages>695-706</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.66</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.66</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#ArjomandKSD16</url>
+
+<inproceedings key="conf/pldi/MullerSGAAL20" mdate="2020-06-09">
+<author>Stefan K. Muller</author>
+<author>Kyle Singer</author>
+<author>Noah Goldstein</author>
+<author>Umut A. Acar</author>
+<author>Kunal Agrawal</author>
+<author>I-Ting Angelina Lee</author>
+<title>Responsive parallelism with futures and state.</title>
+<pages>577-591</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386013</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#MullerSGAAL20</url>
 </inproceedings>
 
 
@@ -1192,18 +813,22 @@
 
 
 
-<inproceedings key="conf/isca/GandhiHS16" mdate="2016-09-20">
-<author>Jayneel Gandhi</author>
-<author>Mark D. Hill</author>
-<author>Michael M. Swift</author>
-<title>Agile Paging: Exceeding the Best of Nested and Shadow Paging.</title>
-<pages>707-718</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.67</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.67</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#GandhiHS16</url>
+
+<inproceedings key="conf/pldi/ZhuoCLWYQQ20" mdate="2020-06-09">
+<author>Youwei Zhuo</author>
+<author>Jingji Chen</author>
+<author>Qinyi Luo</author>
+<author>Yanzhi Wang</author>
+<author>Hailong Yang</author>
+<author>Depei Qian</author>
+<author>Xuehai Qian</author>
+<title>SympleGraph: distributed graph processing with precise loop-carried dependency guarantee.</title>
+<pages>592-607</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385961</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#ZhuoCLWYQQ20</url>
 </inproceedings>
 
 
@@ -1211,21 +836,736 @@
 
 
 
-<inproceedings key="conf/isca/SeolSJCSK16" mdate="2016-09-20">
-<author>Hoseok Seol</author>
-<author>Wongyu Shin</author>
-<author>Jaemin Jang</author>
-<author>Jungwhan Choi</author>
-<author>Jinwoong Suh</author>
-<author>Lee-Sup Kim</author>
-<title>Energy Efficient Data Encoding in DRAM Channels Exploiting Data Value Similarity.</title>
-<pages>719-730</pages>
-<year>2016</year>
-<booktitle>ISCA</booktitle>
-<ee>http://dx.doi.org/10.1109/ISCA.2016.68</ee>
-<ee>http://doi.ieeecomputersociety.org/10.1109/ISCA.2016.68</ee>
-<crossref>conf/isca/2016</crossref>
-<url>db/conf/isca/isca2016.html#SeolSJCSK16</url>
+
+<inproceedings key="conf/pldi/0002H20" mdate="2020-06-09">
+<author>Fabian Ritter 0002</author>
+<author>Sebastian Hack</author>
+<title>PMEvo: portable inference of port mappings for out-of-order processors by evolutionary optimization.</title>
+<pages>608-622</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385995</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#0002H20</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/pldi/WuLNZL20" mdate="2020-06-09">
+<author>Zhenwei Wu</author>
+<author>Kai Lu</author>
+<author>Andrew Nisbet</author>
+<author>Wenzhe Zhang</author>
+<author>Mikel Luj\'an</author>
+<title>PMThreads: persistent memory threads harnessing versioned shadow copies.</title>
+<pages>623-637</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386000</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#WuLNZL20</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/pldi/ApostolakisXTCC20" mdate="2020-10-25">
+<author>Sotiris Apostolakis</author>
+<author orcid="0000-0002-8297-7573">Ziyang Xu</author>
+<author>Zujun Tan</author>
+<author>Greg Chan</author>
+<author>Simone Campanoni</author>
+<author>David I. August</author>
+<title>SCAF: a speculation-aware collaborative dependence analysis framework.</title>
+<pages>638-654</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386028</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#ApostolakisXTCC20</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/pldi/DasguptaDVAF20" mdate="2020-06-09">
+<author>Sandeep Dasgupta</author>
+<author>Sushant Dinesh</author>
+<author>Deepan Venkatesh</author>
+<author>Vikram S. Adve</author>
+<author>Christopher W. Fletcher</author>
+<title>Scalable validation of binary lifters.</title>
+<pages>655-671</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385964</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#DasguptaDVAF20</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/pldi/Chatterjee0GG20" mdate="2020-06-09">
+<author>Krishnendu Chatterjee</author>
+<author>Hongfei Fu 0001</author>
+<author>Amir Kafshdar Goharshady</author>
+<author>Ehsan Kafshdar Goharshady</author>
+<title>Polynomial invariant generation for non-deterministic recursive programs.</title>
+<pages>672-687</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385969</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#Chatterjee0GG20</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/pldi/BreckCKR20" mdate="2020-06-09">
+<author>Jason Breck</author>
+<author>John Cyphert</author>
+<author>Zachary Kincaid</author>
+<author>Thomas W. Reps</author>
+<title>Templates and recurrences: better together.</title>
+<pages>688-702</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386035</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#BreckCKR20</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/pldi/KoenigPIA20" mdate="2020-06-09">
+<author>Jason R. Koenig</author>
+<author>Oded Padon</author>
+<author>Neil Immerman</author>
+<author>Alex Aiken</author>
+<title>First-order quantified separators.</title>
+<pages>703-717</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386018</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#KoenigPIA20</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/pldi/WintererZS20" mdate="2021-01-07">
+<author>Dominik Winterer</author>
+<author>Chengyu Zhang 0001</author>
+<author>Zhendong Su</author>
+<title>Validating SMT solvers via semantic fusion.</title>
+<pages>718-730</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385985</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#WintererZS20</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/pldi/ChowdharyLN20" mdate="2020-06-09">
+<author>Sangeeta Chowdhary</author>
+<author>Jay P. Lim</author>
+<author>Santosh Nagarakatte</author>
+<title>Debugging and detecting numerical errors in computation with posits.</title>
+<pages>731-746</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386004</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#ChowdharyLN20</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/pldi/RoemerGB20" mdate="2020-06-09">
+<author>Jake Roemer</author>
+<author>Kaan Gen\c{c}</author>
+<author>Michael D. Bond</author>
+<title>SmartTrack: efficient predictive race detection.</title>
+<pages>747-762</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385993</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#RoemerGB20</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/pldi/QinCYSZ20" mdate="2020-06-09">
+<author>Boqin Qin</author>
+<author>Yilun Chen</author>
+<author>Zeming Yu</author>
+<author>Linhai Song</author>
+<author>Yiying Zhang</author>
+<title>Understanding memory and thread safety practices and issues in real-world Rust programs.</title>
+<pages>763-779</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386036</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#QinCYSZ20</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/pldi/LiZR20" mdate="2020-06-09">
+<author>Yuanbo Li</author>
+<author>Qirun Zhang</author>
+<author>Thomas W. Reps</author>
+<title>Fast graph simplification for interleaved Dyck-reachability.</title>
+<pages>780-793</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386021</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#LiZR20</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/pldi/AntoniadisFKRAS20" mdate="2020-06-09">
+<author>Anastasios Antoniadis</author>
+<author>Nikos Filippakis</author>
+<author>Paddy Krishnan</author>
+<author>Raghavendra Ramesh</author>
+<author>Nicholas Allen</author>
+<author>Yannis Smaragdakis</author>
+<title>Static analysis of Java enterprise applications: frameworks and caches, the elephants in the room.</title>
+<pages>794-807</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386026</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#AntoniadisFKRAS20</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/pldi/OlivryLPSR20" mdate="2020-09-05">
+<author>Auguste Olivry</author>
+<author>Julien Langou</author>
+<author>Louis-No&#235;l Pouchet</author>
+<author orcid="0000-0002-4737-2034">P. Sadayappan</author>
+<author>Fabrice Rastello</author>
+<title>Automated derivation of parametric data movement lower bounds for affine programs.</title>
+<pages>808-822</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385989</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#OlivryLPSR20</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/pldi/ChouKA20" mdate="2020-06-09">
+<author>Stephen Chou</author>
+<author>Fredrik Kjolstad</author>
+<author>Saman P. Amarasinghe</author>
+<title>Automatic generation of efficient sparse tensor format conversion routines.</title>
+<pages>823-838</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385963</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#ChouKA20</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/pldi/PhuliaBB20" mdate="2020-06-09">
+<author>Ankush Phulia</author>
+<author>Vaibhav Bhagee</author>
+<author>Sorav Bansal</author>
+<title>OOElala: order-of-evaluation based alias analysis for compiler optimization.</title>
+<pages>839-853</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385962</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#PhuliaBB20</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/pldi/RochaP0CL20" mdate="2020-09-05">
+<author>Rodrigo C. O. Rocha</author>
+<author orcid="0000-0002-1497-6536">Pavlos Petoumenos</author>
+<author>Zheng Wang 0001</author>
+<author>Murray Cole</author>
+<author>Hugh Leather</author>
+<title>Effective function merging in the SSA form.</title>
+<pages>854-868</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386030</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#RochaP0CL20</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/pldi/ChenH20" mdate="2020-06-09">
+<author>Jianhui Chen</author>
+<author>Fei He</author>
+<title>Proving almost-sure termination by omega-regular decomposition.</title>
+<pages>869-882</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386002</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#ChenH20</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/pldi/GehrSV20" mdate="2020-06-09">
+<author>Timon Gehr</author>
+<author>Samuel Steffen</author>
+<author>Martin T. Vechev</author>
+<title>&#955;PSI: exact inference for higher-order probabilistic programs.</title>
+<pages>883-897</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386006</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#GehrSV20</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/pldi/BaudartMASPC20" mdate="2020-06-09">
+<author>Guillaume Baudart</author>
+<author>Louis Mandel</author>
+<author>Eric Atkinson</author>
+<author>Benjamin Sherman</author>
+<author>Marc Pouzet</author>
+<author>Michael Carbin</author>
+<title>Reactive probabilistic programming.</title>
+<pages>898-912</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386009</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#BaudartMASPC20</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/pldi/CauligiDGTSRB20" mdate="2020-06-10">
+<author>Sunjay Cauligi</author>
+<author>Craig Disselkoen</author>
+<author>Klaus von Gleissenthall</author>
+<author>Dean M. Tullsen</author>
+<author>Deian Stefan</author>
+<author>Tamara Rezk</author>
+<author>Gilles Barthe</author>
+<title>Constant-time foundations for the new spectre era.</title>
+<pages>913-926</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385970</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#CauligiDGTSRB20</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/pldi/SantosMAG20" mdate="2020-06-09">
+<author>Jos'u Fragoso Santos</author>
+<author>Petar Maksimovic</author>
+<author>Sacha-&#201;lie Ayoun</author>
+<author>Philippa Gardner</author>
+<title>Gillian, part i: a multi-language platform for symbolic execution.</title>
+<pages>927-942</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386014</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#SantosMAG20</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/pldi/AbdullaACDDJLHW20" mdate="2020-10-25">
+<author>Parosh Aziz Abdulla</author>
+<author>Mohamed Faouzi Atig</author>
+<author>Yu-Fang Chen</author>
+<author>Bui Phi Diep</author>
+<author>Julian Dolby</author>
+<author>Petr Janku</author>
+<author>Hsin-Hung Lin</author>
+<author orcid="0000-0001-6957-1651">Luk\'as Hol'ik</author>
+<author>Wei-Cheng Wu</author>
+<title>Efficient handling of string-number conversion.</title>
+<pages>943-957</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386034</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#AbdullaACDDJLHW20</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/pldi/GiannarakisLBW20" mdate="2020-06-09">
+<author>Nick Giannarakis</author>
+<author>Devon Loehr</author>
+<author>Ryan Beckett</author>
+<author>David Walker</author>
+<title>NV: an intermediate language for verification of network control planes.</title>
+<pages>958-973</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386019</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#GiannarakisLBW20</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/pldi/SubramanianADA20" mdate="2020-06-09">
+<author>Kausik Subramanian</author>
+<author>Anubhavnidhi Abhashkumar</author>
+<author>Loris D'Antoni</author>
+<author>Aditya Akella</author>
+<title>Detecting network load violations for distributed control planes.</title>
+<pages>974-988</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385976</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#SubramanianADA20</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/pldi/KimZLALJ20" mdate="2020-06-09">
+<author>Hongjune Kim</author>
+<author>Jianping Zeng</author>
+<author>Qingrui Liu</author>
+<author>Mohammad Abdel-Majeed</author>
+<author>Jaejin Lee</author>
+<author>Changhee Jung</author>
+<title>Compiler-directed soft error resilience for lightweight GPU register file protection.</title>
+<pages>989-1004</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386033</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#KimZLALJ20</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/pldi/MaengL20" mdate="2020-06-09">
+<author>Kiwan Maeng</author>
+<author>Brandon Lucia</author>
+<title>Adaptive low-overhead scheduling for periodic and reactive intermittent execution.</title>
+<pages>1005-1021</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385998</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#MaengL20</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/pldi/Herman20" mdate="2020-10-25">
+<author orcid="0000-0001-6855-8316">Grzegorz Herman</author>
+<title>Faster general parsing through context-free memoization.</title>
+<pages>1022-1035</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386032</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#Herman20</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/pldi/EdelmannHK20" mdate="2020-06-09">
+<author>Romain Edelmann</author>
+<author>Jad Hamza</author>
+<author>Viktor Kuncak</author>
+<title>Zippy LL(1) parsing with derivatives.</title>
+<pages>1036-1051</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385992</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#EdelmannHK20</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/pldi/LiDZI20" mdate="2020-06-09">
+<author>Yuanbo Li</author>
+<author>Shuo Ding</author>
+<author>Qirun Zhang</author>
+<author>Davide Italiano</author>
+<title>Debug information validation for optimized code.</title>
+<pages>1052-1065</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386020</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#LiDZI20</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/pldi/PremtoonKS20" mdate="2020-06-09">
+<author>Varot Premtoon</author>
+<author>James Koppel</author>
+<author>Armando Solar-Lezama</author>
+<title>Semantic code search via equational reasoning.</title>
+<pages>1066-1082</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386001</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#PremtoonKS20</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/pldi/DrewsAD20" mdate="2020-06-09">
+<author>Samuel Drews</author>
+<author>Aws Albarghouthi</author>
+<author>Loris D'Antoni</author>
+<title>Proving data-poisoning robustness in decision trees.</title>
+<pages>1083-1097</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385975</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#DrewsAD20</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/pldi/0024WVWVK20" mdate="2020-06-09">
+<author>Muhammad Usman 0024</author>
+<author>Wenxi Wang</author>
+<author>Marko Vasic</author>
+<author>Kaiyuan Wang</author>
+<author>Haris Vikalo</author>
+<author>Sarfraz Khurshid</author>
+<title>A study of the learnability of relational properties: model counting meets machine learning (MCML).</title>
+<pages>1098-1111</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386015</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#0024WVWVK20</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/pldi/HeSPV20" mdate="2020-10-25">
+<author>Jingxuan He</author>
+<author orcid="0000-0002-9299-2961">Gagandeep Singh 0001</author>
+<author>Markus P\"uschel</author>
+<author>Martin T. Vechev</author>
+<title>Learning fast and precise numerical analysis.</title>
+<pages>1112-1127</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386016</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#HeSPV20</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/pldi/HuCDR20" mdate="2020-06-09">
+<author>Qinheping Hu</author>
+<author>John Cyphert</author>
+<author>Loris D'Antoni</author>
+<author>Thomas W. Reps</author>
+<title>Exact and approximate methods for proving unrealizability of syntax-guided synthesis problems.</title>
+<pages>1128-1142</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3385979</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#HuCDR20</url>
+</inproceedings>
+
+
+
+
+
+
+
+<inproceedings key="conf/pldi/JiLXZH20" mdate="2020-09-01">
+<author>Ruyi Ji</author>
+<author>Jingjing Liang</author>
+<author>Yingfei Xiong 0001</author>
+<author>Lu Zhang 0023</author>
+<author>Zhenjiang Hu</author>
+<title>Question selection for interactive program synthesis.</title>
+<pages>1143-1158</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386025</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#JiLXZH20</url>
+</inproceedings>
+
+
+
+
+
+
+<inproceedings key="conf/pldi/HuangQSW20" mdate="2020-10-25">
+<author>Kangjing Huang</author>
+<author orcid="0000-0001-9476-7349">Xiaokang Qiu</author>
+<author>Peiyuan Shen</author>
+<author>Yanjun Wang</author>
+<title>Reconciling enumerative and deductive program synthesis.</title>
+<pages>1159-1174</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386027</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#HuangQSW20</url>
 </inproceedings>
 
 

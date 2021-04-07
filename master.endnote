@@ -1,749 +1,873 @@
 
 
-
-%A Jorge Albericio
-%A Patrick Judd
-%A Tayler H. Hetherington
-%A Tor M. Aamodt
-%A Natalie D. Enright Jerger
-%A Andreas Moshovos
-%T Cnvlutin: Ineffectual-Neuron-Free Deep Neural Network Computing.
-%P 1-13
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Ali Shafiee
-%A Anirban Nag
-%A Naveen Muralimanohar
-%A Rajeev Balasubramonian
-%A John Paul Strachan
-%A Miao Hu
-%A R. Stanley Williams
-%A Vivek Srikumar
-%T ISAAC: A Convolutional Neural Network Accelerator with In-Situ Analog Arithmetic in Crossbars.
-%P 14-26
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Ping Chi
-%A Shuangchen Li
-%A Cong Xu
-%A Tao Zhang
-%A Jishen Zhao
-%A Yongpan Liu
-%A Yu Wang
-%A Yuan Xie
-%T PRIME: A Novel Processing-in-Memory Architecture for Neural Network Computation in ReRAM-Based Main Memory.
-%P 27-39
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Christopher Torng
-%A Moyang Wang
-%A Christopher Batten
-%T Asymmetry-Aware Work-Stealing Runtimes.
-%P 40-52
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Hung-Wei Tseng
-%A Qianchen Zhao
-%A Yuxiao Zhou
-%A Mark Gahagan
-%A Steven Swanson
-%T Morpheus: Creating Application Objects Efficiently for Heterogeneous Computing.
-%P 53-65
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Divya Mahajan
-%A Amir Yazdanbakhsh
-%A Jongse Park
-%A Bradley Thwaites
-%A Hadi Esmaeilzadeh
-%T Towards Statistical Guarantees in Controlling Quality Tradeoffs for Approximate Acceleration.
-%P 66-77
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Akanksha Jain
-%A Calvin Lin
-%T Back to the Future: Leveraging Belady's Algorithm for Improved Cache Replacement.
-%P 78-89
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Chang Hyun Park
-%A Taekyung Heo
-%A Jaehyuk Huh
-%T Efficient Synonym Filtering and Scalable Delayed Translation for Hybrid Virtual Caching.
-%P 90-102
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Hsiang-Yun Cheng
-%A Jishen Zhao
-%A Jack Sampson
-%A Mary Jane Irwin
-%A Aamer Jaleel
-%A Yu Lu
-%A Yuan Xie 0001
-%T LAP: Loop-Block Aware Inclusion Properties for Energy-Efficient Asymmetric Last Level Caches.
-%P 103-114
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A David Koeplinger
-%A Raghu Prabhakar
-%A Yaqi Zhang
-%A Christina Delimitrou
-%A Christos Kozyrakis
-%A Kunle Olukotun
-%T Automatic Generation of Efficient Accelerators for Reconfigurable Hardware.
-%P 115-127
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Donggyu Kim
-%A Adam M. Izraelevitz
-%A Christopher Celio
-%A Hokeun Kim
-%A Brian Zimmer
-%A Yunsup Lee
-%A Jonathan Bachrach
-%A Krste Asanovic
-%T Strober: Fast and Accurate Sample-Based Energy Simulation for Arbitrary RTL.
-%P 128-139
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Michael A. Laurenzano
-%A Yunqi Zhang
-%A Jiang Chen
-%A Lingjia Tang
-%A Jason Mars
-%T PowerChop: Identifying and Managing Non-critical Units in Hybrid Processor Architectures.
-%P 140-152
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Boncheol Gu
-%A Andre S. Yoon
-%A Duck-Ho Bae
-%A Insoon Jo
-%A Jinyoung Lee
-%A Jonghyun Yoon
-%A Jeong-Uk Kang
-%A Moonsang Kwon
-%A Chanho Yoon
-%A Sangyeun Cho
-%A Jaeheon Jeong
-%A Duckhyun Chang
-%T Biscuit: A Framework for Near-Data Processing of Big Data Workloads.
-%P 153-165
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Muhammet Mustafa Ozdal
-%A Serif Yesil
-%A Taemin Kim
-%A Andrey Ayupov
-%A John Greth
-%A Steven M. Burns
-%A zturk
-%T Energy Efficient Architecture for Graph Analytics Accelerators.
-%P 166-177
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Ikuo Magaki
-%A Moein Khazraee
-%A Luis Vega Gutierrez
-%A Michael Bedford Taylor
-%T ASIC Clouds: Specializing the Datacenter.
-%P 178-190
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Yunho Oh
-%A Keunsoo Kim
-%A Myung Kuk Yoon
-%A Jong Hyun Park
-%A Yongjun Park
-%A Won Woo Ro
-%A Murali Annavaram
-%T APRES: Improving Cache Efficiency by Exploiting Load Characteristics on GPUs.
-%P 191-203
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Kevin Hsieh
-%A Eiman Ebrahimi
-%A Gwangsun Kim
-%A Niladrish Chatterjee
-%A Mike O'Connor
-%A Nandita Vijaykumar
-%A Onur Mutlu
-%A Stephen W. Keckler
-%T Transparent Offloading and Mapping (TOM): Enabling Programmer-Transparent Near-Data Processing in GPU Systems.
-%P 204-216
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Chang Hyun Park
-%A Taekyung Heo
-%A Jaehyuk Huh
-%T Efficient Synonym Filtering and Scalable Delayed Translation for Hybrid Virtual Caching.
-%P 217-229
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Qiumin Xu
-%A Hyeran Jeon
-%A Keunsoo Kim
-%A Won Woo Ro
-%A Murali Annavaram
-%T Warped-Slicer: Efficient Intra-SM Slicing through Dynamic Resource Partitioning for GPU Multiprogramming.
-%P 230-242
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Song Han
-%A Xingyu Liu
-%A Huizi Mao
-%A Jing Pu
-%A Ardavan Pedram
-%A Mark A. Horowitz
-%A William J. Dally
-%T EIE: Efficient Inference Engine on Compressed Deep Neural Network.
-%P 243-254
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Robert LiKamWa
-%A Yunhui Hou
-%A Yuan Gao
-%A Mia Polansky
-%A Lin Zhong
-%T RedEye: Analog ConvNet Image Sensor Architecture for Continuous Mobile Vision.
-%P 255-266
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Brandon Reagen
-%A Paul N. Whatmough
-%A Robert Adolf
-%A Saketh Rama
-%A Hyunkwang Lee
-%A Sae Kyu Lee
-%A Jos'u Miguel Hern\'andez-Lobato
-%A Gu-Yeon Wei
-%A David M. Brooks
-%T Minerva: Enabling Low-Power, Highly-Accurate Deep Neural Network Accelerators.
-%P 267-278
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Yuan Yao
-%A Zhonghai Lu
-%T Opportunistic Competition Overhead Reduction for Expediting Critical Section in NoC Based CMPs.
-%P 279-290
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Channoh Kim
-%A Sungmin Kim
-%A Hyeon-Gyu Cho
-%A Doo-Young Kim
-%A Jaehyeok Kim
-%A Young H. Oh
-%A Hakbeom Jang
-%A Jae W. Lee
-%T Short-Circuit Dispatch: Accelerating Virtual Machine Interpreters on Embedded Processors.
-%P 291-303
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Christoffer Dall
-%A Shih-Wei Li
-%A Jin Tack Lim
-%A Jason Nieh
-%A Georgios Koloventzos
-%T ARM Virtualization: Performance and Architectural Implications.
-%P 304-316
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Jayesh Gaur
-%A Alaa R. Alameldeen
-%A Sreenivas Subramoney
-%T Base-Victim Compression: An Opportunistic Cache Compression Architecture.
-%P 317-328
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Jungrae Kim
-%A Michael Sullivan
-%A Esha Choukse
-%A Mattan Erez
-%T Bit-Plane Compression: Transforming Data for Better Compression in Many-Core Architectures.
-%P 329-340
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Prashant J. Nair
-%A Vilas Sridharan
-%A Moinuddin K. Qureshi
-%T XED: Exposing On-Die Error Detection Information for Strong Memory Reliability.
-%P 341-353
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Mohammad Mejbah Ul Alam
-%A Abdullah Muzahid
-%T Production-Run Software Failure Diagnosis via Adaptive Communication Tracking.
-%P 354-366
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Yu-Hsin Chen
-%A Joel S. Emer
-%A Vivienne Sze
-%T Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks.
-%P 367-379
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Duckhwan Kim 0001
-%A Jaeha Kung
-%A Sek M. Chai
-%A Sudhakar Yalamanchili
-%A Saibal Mukhopadhyay
-%T Neurocube: A Programmable Digital Neuromorphic Architecture with High-Density 3D Memory.
-%P 380-392
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Shaoli Liu
-%A Zidong Du
-%A Jinhua Tao
-%A Dong Han
-%A Tao Luo
-%A Yuan Xie
-%A Yunji Chen
-%A Tianshi Chen
-%T Cambricon: An Instruction Set Architecture for Neural Networks.
-%P 393-405
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Ziqiang Huang
-%A Andrew D. Hilton
-%A Benjamin C. Lee
-%T Decoupling Loads for Nano-Instruction Set Computers.
-%P 406-417
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Timothy Hayes 0001
-%A Oscar Palomar
-%A Osman S. Unsal
-%A Adri\'an Cristal
-%A Mateo Valero
-%T Future Vector Microprocessor Extensions for Data Aggregations.
-%P 418-430
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Faissal M. Sleiman
-%A Thomas F. Wenisch
-%T Efficiently Scaling Out-of-Order Cores for Simultaneous Multithreading.
-%P 431-443
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Milad Hashemi
-%A Khubaib
-%A Eiman Ebrahimi
-%A Onur Mutlu
-%A Yale N. Patt
-%T Accelerating Dependent Cache Misses with an Enhanced Memory Controller.
-%P 444-455
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Yunqi Zhang
-%A David Meisner
-%A Jason Mars
-%A Lingjia Tang
-%T Treadmill: Attributing the Source of Tail Latency through Precise Load Testing and Statistical Inference.
-%P 456-468
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Qiang Wu
-%A Qingyuan Deng
-%A Lakshmi Ganesh
-%A Chang-Hong Hsu
-%A Yun Jin
-%A Sanjeev Kumar
-%A Bin Li
-%A Justin Meza
-%A Yee Jiun Song
-%T Dynamo: Facebook's Data Center-Wide Power Management System.
-%P 469-480
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Daniel Wong 0001
-%T Peak Efficiency Aware Scheduling for Highly Energy Proportional Servers.
-%P 481-492
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Chao Li
-%A Zhenhua Wang
-%A Xiaofeng Hou
-%A Haopeng Chen
-%A Xiaoyao Liang
-%A Minyi Guo
-%T Power Attack Defense: Securing Battery-Backed Data Centers.
-%P 493-505
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Mingyu Gao
-%A Christina Delimitrou
-%A Dimin Niu
-%A Krishna T. Malladi
-%A Hongzhong Zheng
-%A Bob Brennan
-%A Christos Kozyrakis
-%T DRAF: A Low-Power DRAM-Based Reconfigurable Acceleration Fabric.
-%P 506-518
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Lunkai Zhang
-%A Brian Neely
-%A Diana Franklin
-%A Dmitri B. Strukov
-%A Yuan Xie
-%A Frederic T. Chong
-%T Mellow Writes: Extending Lifetime in Resistive Memories through Selective Slow Write Backs.
-%P 519-531
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Yanqi Zhou
-%A David Wentzlaff
-%T MITTS: Memory Inter-arrival Time Traffic Shaping.
-%P 532-544
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Joshua San Miguel
-%A Natalie D. Enright Jerger
-%T The Anytime Automaton.
-%P 545-557
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Siyang Wang
-%A Xiangyu Zhang
-%A Yuxuan Li
-%A Ramin Bashizade
-%A Song Yang
-%A Chris Dwyer
-%A Alvin R. Lebeck
-%T Accelerating Markov Random Field Inference Using Molecular Optical Gibbs Sampling Units.
-%P 558-569
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Yipeng Huang
-%A Ning Guo
-%A Mingoo Seok
-%A Yannis P. Tsividis
-%A Simha Sethumadhavan
-%T Evaluation of an Analog Accelerator for Linear Algebra.
-%P 570-582
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Jin Wang
-%A Norm Rubin
-%A Albert Sidelnik
-%A Sudhakar Yalamanchili
-%T LaPerm: Locality Aware Scheduler for Dynamic Parallelism on GPUs.
-%P 583-595
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Sagi Shahar
-%A Shai Bergman
-%A Mark Silberstein
-%T ActivePointers: A Case for Software Address Translation on GPUs.
-%P 596-608
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Myung Kuk Yoon
-%A Keunsoo Kim
-%A Sangpil Lee
-%A Won Woo Ro
-%A Murali Annavaram
-%T Virtual Thread: Maximizing Thread-Level Parallelism beyond GPU Scheduling Limit.
-%P 609-621
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Jungrae Kim
-%A Michael Sullivan
-%A Sangkug Lym
-%A Mattan Erez
-%T All-Inclusive ECC: Thorough End-to-End Protection for Reliable Computer Memory.
-%P 622-633
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Henry Duwe
-%A Xun Jian
-%A Daniel Petrisko
-%A Rakesh Kumar 0002
-%T Rescuing Uncorrectable Fault Patterns in On-Chip Memories through Error Pattern Transformation.
-%P 634-644
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Dong-Wan Kim
-%A Mattan Erez
-%T RelaxFault Memory Repair.
-%P 645-657
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Raghavendra Pradyumna Pothukuchi
-%A Amin Ansari
-%A Petros G. Voulgaris
-%A Josep Torrellas
-%T Using Multiple Input, Multiple Output Formal Control to Maximize Resource Efficiency in Architectures.
-%P 658-670
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Hari Cherupalli
-%A Rakesh Kumar 0002
-%A John Sartori
-%T Exploiting Dynamic Timing Slack for Energy Efficiency in Ultra-Low-Power Embedded Systems.
-%P 671-681
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Yanqi Zhou
-%A Henry Hoffmann
-%A David Wentzlaff
-%T CASH: Supporting IaaS Customers with a Sub-core Configurable Architecture.
-%P 682-694
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Mohammad Arjomand
-%A Mahmut T. Kandemir
-%A Anand Sivasubramaniam
-%A Chita R. Das
-%T Boosting Access Parallelism to PCM-Based Main Memory.
-%P 695-706
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Jayneel Gandhi
-%A Mark D. Hill
-%A Michael M. Swift
-%T Agile Paging: Exceeding the Best of Nested and Shadow Paging.
-%P 707-718
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
-
-
-
-%A Hoseok Seol
-%A Wongyu Shin
-%A Jaemin Jang
-%A Jungwhan Choi
-%A Jinwoong Suh
-%A Lee-Sup Kim
-%T Energy Efficient Data Encoding in DRAM Channels Exploiting Data Value Similarity.
-%P 719-730
-%D 2016
-%J Proc. of the 43rd ISCA
-%R
+%A Anders Miltner
+%A Saswat Padhi
+%A Todd D. Millstein
+%A David Walker
+%T Data-driven inference of representation invariants.
+%P 1-15
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Georgios Sakkas
+%A Madeline Endres
+%A Benjamin Cosman
+%A Westley Weimer
+%A Ranjit Jhala
+%T Type error feedback via analytic program repair.
+%P 16-30
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Chandrakana Nandi
+%A Max Willsey
+%A Adam Anderson 0004
+%A James R. Wilcox
+%A Eva Darulova
+%A Dan Grossman
+%A Zachary Tatlock
+%T Synthesizing structured CAD models with equality saturation and inverse transformations.
+%P 31-44
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Matthew Flatt
+%A R. Kent Dybvig
+%T Compiler and runtime support for continuation marks.
+%P 45-58
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Kaan Gen\c{c}
+%A Michael D. Bond
+%A Guoqing Harry Xu
+%T Crafty: efficient, HTM-compatible persistent transactions.
+%P 59-74
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Kavon Farvardin
+%A John H. Reppy
+%T From folklore to fact: comparing implementations of stacks and continuations.
+%P 75-90
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Miltiadis Allamanis
+%A Earl T. Barr
+%A Soline Ducousso
+%A Zheng Gao
+%T Typilus: neural type hints.
+%P 91-105
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Jianan Yao
+%A Gabriel Ryan
+%A Justin Wong
+%A Suman Jana
+%A Ronghui Gu
+%T Learning nonlinear loop invariants with gated continuous logic networks.
+%P 106-120
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Ke Wang 0022
+%A Zhendong Su
+%T Blended, precise semantic program embeddings.
+%P 121-134
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Fraser Brown
+%A John Renner
+%A Andres N\"otzli
+%A Sorin Lerner
+%A Hovav Shacham
+%A Deian Stefan
+%T Towards a verified range analysis for JavaScript JITs.
+%P 135-150
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Gregory J. Duck
+%A Xiang Gao
+%A Abhik Roychoudhury
+%T Binary rewriting without control flow recovery.
+%P 151-163
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Chris Porter
+%A Girish Mururu
+%A Prithayan Barua
+%A Santosh Pande
+%T BlankIt library debloating: getting what you want instead of cutting what you don't.
+%P 164-180
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Siddharth Krishna
+%A Nisarg Patel
+%A Dennis E. Shasha
+%A Thomas Wies
+%T Verifying concurrent search structure templates.
+%P 181-196
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Jacob R. Lorch
+%A Yixuan Chen 0002
+%A Manos Kapritsos
+%A Bryan Parno
+%A Shaz Qadeer
+%A Upamanyu Sharma
+%A James R. Wilcox
+%A Xueyuan Zhao
+%T Armada: low-effort verification of high-performance concurrent programs.
+%P 197-210
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Ori Lahav
+%A Udi Boker
+%T Decidable verification under a causally consistent shared memory.
+%P 211-226
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Bernhard Kragl
+%A Constantin Enea
+%A Thomas A. Henzinger
+%A Suha Orhun Mutluergil
+%A Shaz Qadeer
+%T Inductive sequentialization of asynchronous programs.
+%P 227-242
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Thomas Bourgeat
+%A Cl'ument Pit-Claudel
+%A Adam Chlipala
+%A Arvind
+%T The essence of Bluespec: a core language for rule-based hardware design.
+%P 243-257
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Fabian Schuiki
+%A Andreas Kurth
+%A Tobias Grosser
+%A Luca Benini
+%T LLHD: a multi-level intermediate representation for hardware description languages.
+%P 258-271
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Shaopeng Zhu
+%A Shih-Han Hung
+%A Shouvanik Chakrabarti
+%A Xiaodi Wu
+%T On the principles of differentiable quantum programming languages.
+%P 272-285
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Benjamin Bichsel
+%A Maximilian Baader
+%A Timon Gehr
+%A Martin T. Vechev
+%T Silq: a high-level quantum language with safe uncomputation and intuitive semantics.
+%P 286-300
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Albert Mingkun Yang
+%A sterlund
+%A Tobias Wrigstad
+%T Improving program locality in the GC using hotness.
+%P 301-313
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Jeehoon Kang
+%A Jaehwang Jung
+%T A marriage of pointer- and epoch-based reclamation.
+%P 314-328
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Brian Suchy
+%A Simone Campanoni
+%A Nikos Hardavellas
+%A Peter A. Dinda
+%T CARAT: a case for virtual memory through compiler- and runtime-based address translation.
+%P 329-345
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Conrad Watt
+%A Christopher Pulte
+%A Anton Podkopaev
+%A Guillaume Barbier
+%A Stephen Dolan
+%A Shaked Flur
+%A Jean Pichon-Pharabod
+%A Shu-yu Guo
+%T Repairing and mechanising the JavaScript relaxed memory model.
+%P 346-361
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Sung-Hwan Lee
+%A Minki Cho
+%A Anton Podkopaev
+%A Soham Chakraborty
+%A Chung-Kil Hur
+%A Ori Lahav
+%A Viktor Vafeiadis
+%T Promising 2.0: global optimizations in relaxed memory concurrency.
+%P 362-376
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Michal Friedman
+%A Naama Ben-David
+%A Yuanhao Wei
+%A Guy E. Blelloch
+%A Erez Petrank
+%T NVTraverse: in NVRAM data structures, the destination is more important than the journey.
+%P 377-392
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Rachit Nigam
+%A Sachille Atapattu
+%A Samuel Thomas
+%A Zhijing Li 0002
+%A Theodore Bauer
+%A Yuwei Ye
+%A Apurva Koti
+%A Adrian Sampson
+%A Zhiru Zhang
+%T Predictable accelerator design with time-sensitive affine types.
+%P 393-407
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A David Durst
+%A Matthew Feldman
+%A Dillon Huff
+%A David Akeley
+%A Ross G. Daly
+%A Gilbert Louis Bernstein
+%A Marco Patrignani
+%A Kayvon Fatahalian
+%A Pat Hanrahan
+%T Type-directed scheduling of streaming accelerators.
+%P 408-422
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Frank Emrich
+%A Sam Lindley
+%A Jan Stolarek
+%A James Cheney
+%A Jonathan Coates
+%T FreezeML: complete and easy type inference for first-class polymorphism.
+%P 423-437
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Ao Li
+%A Jemin Andrew Choi
+%A Fan Long
+%T Securing smart contract with runtime validation.
+%P 438-453
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Lexi Brent
+%A Neville Grech
+%A Sifis Lagouvardos
+%A Bernhard Scholz
+%A Yannis Smaragdakis
+%T Ethainter: a smart contract security analyzer for composite vulnerabilities.
+%P 454-469
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Sidi Mohamed Beillahi
+%A Gabriela F. Ciocarlie
+%A Michael Emmi
+%A Constantin Enea
+%T Behavioral simulation for smart contracts.
+%P 470-486
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Qiaochu Chen
+%A Xinyu Wang 0006
+%A Xi Ye
+%A Greg Durrett
+%A Isil Dillig
+%T Multi-modal synthesis of regular expressions.
+%P 487-502
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A DongKwon Lee
+%A Woosuk Lee
+%A Hakjoo Oh
+%A Kwangkeun Yi
+%T Optimizing homomorphic evaluation circuits by program synthesis and term rewriting.
+%P 503-518
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Pepe Vila
+%A Pierre Ganty
+%A Marco Guarnieri
+%A Boris K\"opf
+%T CacheQuery: learning replacement policies from hardware caches.
+%P 519-532
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A G'urard Berry
+%A Manuel Serrano
+%T HipHop.js: (A)Synchronous reactive web programming.
+%P 533-545
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Roshan Dathathri
+%A Blagovesta Kostova
+%A Olli Saarikivi
+%A Wei Dai
+%A Kim Laine
+%A Madan Musuvathi
+%T EVA: an encrypted vector arithmetic language and compiler for efficient homomorphic computation.
+%P 546-561
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Hans-J. Boehm
+%T Towards an API for the real numbers.
+%P 562-576
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Stefan K. Muller
+%A Kyle Singer
+%A Noah Goldstein
+%A Umut A. Acar
+%A Kunal Agrawal
+%A I-Ting Angelina Lee
+%T Responsive parallelism with futures and state.
+%P 577-591
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Youwei Zhuo
+%A Jingji Chen
+%A Qinyi Luo
+%A Yanzhi Wang
+%A Hailong Yang
+%A Depei Qian
+%A Xuehai Qian
+%T SympleGraph: distributed graph processing with precise loop-carried dependency guarantee.
+%P 592-607
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Fabian Ritter 0002
+%A Sebastian Hack
+%T PMEvo: portable inference of port mappings for out-of-order processors by evolutionary optimization.
+%P 608-622
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Zhenwei Wu
+%A Kai Lu
+%A Andrew Nisbet
+%A Wenzhe Zhang
+%A Mikel Luj\'an
+%T PMThreads: persistent memory threads harnessing versioned shadow copies.
+%P 623-637
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Sotiris Apostolakis
+%A Ziyang Xu
+%A Zujun Tan
+%A Greg Chan
+%A Simone Campanoni
+%A David I. August
+%T SCAF: a speculation-aware collaborative dependence analysis framework.
+%P 638-654
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Sandeep Dasgupta
+%A Sushant Dinesh
+%A Deepan Venkatesh
+%A Vikram S. Adve
+%A Christopher W. Fletcher
+%T Scalable validation of binary lifters.
+%P 655-671
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Krishnendu Chatterjee
+%A Hongfei Fu 0001
+%A Amir Kafshdar Goharshady
+%A Ehsan Kafshdar Goharshady
+%T Polynomial invariant generation for non-deterministic recursive programs.
+%P 672-687
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Jason Breck
+%A John Cyphert
+%A Zachary Kincaid
+%A Thomas W. Reps
+%T Templates and recurrences: better together.
+%P 688-702
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Jason R. Koenig
+%A Oded Padon
+%A Neil Immerman
+%A Alex Aiken
+%T First-order quantified separators.
+%P 703-717
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Dominik Winterer
+%A Chengyu Zhang 0001
+%A Zhendong Su
+%T Validating SMT solvers via semantic fusion.
+%P 718-730
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Sangeeta Chowdhary
+%A Jay P. Lim
+%A Santosh Nagarakatte
+%T Debugging and detecting numerical errors in computation with posits.
+%P 731-746
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Jake Roemer
+%A Kaan Gen\c{c}
+%A Michael D. Bond
+%T SmartTrack: efficient predictive race detection.
+%P 747-762
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Boqin Qin
+%A Yilun Chen
+%A Zeming Yu
+%A Linhai Song
+%A Yiying Zhang
+%T Understanding memory and thread safety practices and issues in real-world Rust programs.
+%P 763-779
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Yuanbo Li
+%A Qirun Zhang
+%A Thomas W. Reps
+%T Fast graph simplification for interleaved Dyck-reachability.
+%P 780-793
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Anastasios Antoniadis
+%A Nikos Filippakis
+%A Paddy Krishnan
+%A Raghavendra Ramesh
+%A Nicholas Allen
+%A Yannis Smaragdakis
+%T Static analysis of Java enterprise applications: frameworks and caches, the elephants in the room.
+%P 794-807
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Auguste Olivry
+%A Julien Langou
+%A l Pouchet
+%A P. Sadayappan
+%A Fabrice Rastello
+%T Automated derivation of parametric data movement lower bounds for affine programs.
+%P 808-822
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Stephen Chou
+%A Fredrik Kjolstad
+%A Saman P. Amarasinghe
+%T Automatic generation of efficient sparse tensor format conversion routines.
+%P 823-838
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Ankush Phulia
+%A Vaibhav Bhagee
+%A Sorav Bansal
+%T OOElala: order-of-evaluation based alias analysis for compiler optimization.
+%P 839-853
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Rodrigo C. O. Rocha
+%A Pavlos Petoumenos
+%A Zheng Wang 0001
+%A Murray Cole
+%A Hugh Leather
+%T Effective function merging in the SSA form.
+%P 854-868
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Jianhui Chen
+%A Fei He
+%T Proving almost-sure termination by omega-regular decomposition.
+%P 869-882
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Timon Gehr
+%A Samuel Steffen
+%A Martin T. Vechev
+%T PSI: exact inference for higher-order probabilistic programs.
+%P 883-897
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Guillaume Baudart
+%A Louis Mandel
+%A Eric Atkinson
+%A Benjamin Sherman
+%A Marc Pouzet
+%A Michael Carbin
+%T Reactive probabilistic programming.
+%P 898-912
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Sunjay Cauligi
+%A Craig Disselkoen
+%A Klaus von Gleissenthall
+%A Dean M. Tullsen
+%A Deian Stefan
+%A Tamara Rezk
+%A Gilles Barthe
+%T Constant-time foundations for the new spectre era.
+%P 913-926
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Jos'u Fragoso Santos
+%A Petar Maksimovic
+%A lie Ayoun
+%A Philippa Gardner
+%T Gillian, part i: a multi-language platform for symbolic execution.
+%P 927-942
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Parosh Aziz Abdulla
+%A Mohamed Faouzi Atig
+%A Yu-Fang Chen
+%A Bui Phi Diep
+%A Julian Dolby
+%A Petr Janku
+%A Hsin-Hung Lin
+%A Luk\'as Hol'ik
+%A Wei-Cheng Wu
+%T Efficient handling of string-number conversion.
+%P 943-957
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Nick Giannarakis
+%A Devon Loehr
+%A Ryan Beckett
+%A David Walker
+%T NV: an intermediate language for verification of network control planes.
+%P 958-973
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Kausik Subramanian
+%A Anubhavnidhi Abhashkumar
+%A Loris D'Antoni
+%A Aditya Akella
+%T Detecting network load violations for distributed control planes.
+%P 974-988
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Hongjune Kim
+%A Jianping Zeng
+%A Qingrui Liu
+%A Mohammad Abdel-Majeed
+%A Jaejin Lee
+%A Changhee Jung
+%T Compiler-directed soft error resilience for lightweight GPU register file protection.
+%P 989-1004
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Kiwan Maeng
+%A Brandon Lucia
+%T Adaptive low-overhead scheduling for periodic and reactive intermittent execution.
+%P 1005-1021
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Grzegorz Herman
+%T Faster general parsing through context-free memoization.
+%P 1022-1035
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Romain Edelmann
+%A Jad Hamza
+%A Viktor Kuncak
+%T Zippy LL(1) parsing with derivatives.
+%P 1036-1051
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Yuanbo Li
+%A Shuo Ding
+%A Qirun Zhang
+%A Davide Italiano
+%T Debug information validation for optimized code.
+%P 1052-1065
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Varot Premtoon
+%A James Koppel
+%A Armando Solar-Lezama
+%T Semantic code search via equational reasoning.
+%P 1066-1082
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Samuel Drews
+%A Aws Albarghouthi
+%A Loris D'Antoni
+%T Proving data-poisoning robustness in decision trees.
+%P 1083-1097
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Muhammad Usman 0024
+%A Wenxi Wang
+%A Marko Vasic
+%A Kaiyuan Wang
+%A Haris Vikalo
+%A Sarfraz Khurshid
+%T A study of the learnability of relational properties: model counting meets machine learning (MCML).
+%P 1098-1111
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Jingxuan He
+%A Gagandeep Singh 0001
+%A Markus P\"uschel
+%A Martin T. Vechev
+%T Learning fast and precise numerical analysis.
+%P 1112-1127
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Qinheping Hu
+%A John Cyphert
+%A Loris D'Antoni
+%A Thomas W. Reps
+%T Exact and approximate methods for proving unrealizability of syntax-guided synthesis problems.
+%P 1128-1142
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Ruyi Ji
+%A Jingjing Liang
+%A Yingfei Xiong 0001
+%A Lu Zhang 0023
+%A Zhenjiang Hu
+%T Question selection for interactive program synthesis.
+%P 1143-1158
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
+
+
+%A Kangjing Huang
+%A Xiaokang Qiu
+%A Peiyuan Shen
+%A Yanjun Wang
+%T Reconciling enumerative and deductive program synthesis.
+%P 1159-1174
+%D 2020
+%J Proc. of the 41st PLDI
+%R 
